@@ -1,15 +1,15 @@
 ::-moz-selection { /* Code for Firefox */
 	color: white;
-	background: #f7535d;
+	background: #AD002A;
 }
 
 ::selection {
 	color: white;
-	background: #f7535d;
+	background: #AD002A;
 }
 
 body {
-	background: linear-gradient(-90deg, #08aca2, #4639a5);
+	background: linear-gradient(-90deg, #FAB4C5, #AD002A);
 	background-size: 200% 200%;
 	-webkit-animation: Gradient 5s ease infinite;
 	-moz-animation: Gradient 5s ease infinite;
