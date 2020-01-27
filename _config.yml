@@ -10,7 +10,7 @@ baseurl:            "" # Base URL must end WITHOUT a slash, default: ""
 permalink:          /:year/:month/:day/:title # Post permalink
 timezone:           America/New_York # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 language:           en-US
-favicon:            https://raw.githubusercontent.com/byliz/img/master/me.jpg
+favicon:            https://lizlorena.com/img/cozymaus-logo-2020.png
 
 # Pagination Settings
 paginate_path: "/blog/pg-:num/"
