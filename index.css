@@ -111,18 +111,18 @@ div#links a.disabled:hover {
 }
 
 div#links a.black {
-	color: #708090;
-	border: 1px #708090 solid;
+	color: black;
+	border: 1px black solid;
 }
 
 span.black {
-	color: #708090;
+	color: black;
 }
 
 div#links a.black:hover {
 	color: white;
 	border: 1px white solid;
-	background-color: #708090;
+	background-color: black;
 }
 
 div#links a.red {
