@@ -126,18 +126,18 @@ div#links a.black:hover {
 }
 
 div#links a.red {
-	color: #f7535d;
-	border: 1px #f7535d solid;
+	color: #AD002A;
+	border: 1px #AD002A solid;
 }
 
 span.red {
-	color: #f7535d;
+	color: #AD002A;
 }
 
 div#links a.red:hover {
 	color: white;
 	border: 1px white solid;
-	background-color: #f7535d;
+	background-color: #AD002A;
 }
 
 div#links a.yellow {
