@@ -290,7 +290,7 @@ p.stuff a {
 	
 }
 
-p.stuff a {
+p.stuff a:hover {
 	color: #AD002A;
 	text-decoration: underline;
 }
