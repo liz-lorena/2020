@@ -285,7 +285,14 @@ a.nav {
 }
 
 p.stuff a {
-	color: #4639a5;
+	color: #AD002A;
+	transition: .3s;
+	
+}
+
+p.stuff a {
+	color: #AD002A;
+	text-decoration: underline;
 }
 
 a.nav:hover, a.nav:focus {
