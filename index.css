@@ -156,18 +156,18 @@ div#links a.yellow:hover {
 }
 
 div#links a.blue {
-	color: #007bff;
-	border: 1px #007bff solid;
+	color: #577396;
+	border: 1px #577396 solid;
 }
 
 span.blue {
-	color: #007bff;
+	color: #577396;
 }
 
 div#links a.blue:hover {
 	color: white;
 	border: 1px white solid;
-	background-color: #007bff;
+	background-color: #577396;
 }
 
 div#links a.purple {
