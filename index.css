@@ -71,7 +71,7 @@ div#links a {
   	transition: .3s;
 }
 
-span.green, span.blue, span.red, span.purple, span.yellow {
+span.green, span.blue, span.red, span.purple, span.black, span.yellow {
 	letter-spacing: 2px;
 	text-transform: uppercase;
 	font-weight: 700;
