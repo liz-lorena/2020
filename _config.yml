@@ -43,4 +43,3 @@ defaults:
     values:
       layout:        "post"
 
-theme: jekyll-theme-cayman
