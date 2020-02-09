@@ -8,6 +8,10 @@
 	background: #AD002A;
 }
 
+html {
+text-transform: lowercase;
+}
+
 body {
 	background: linear-gradient(-90deg, #FAB4C5, #AD002A);
 	background-size: 200% 200%;
