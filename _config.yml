@@ -1,9 +1,9 @@
 # Site Info
-title:              CozyMaus
-description:        Here are all my important links.
+title:              cozymaus
+description:        here are all my important links.
 
 # Author Info
-author_name:        CozyMaus
+author_name:        cozymaus
 
 # Site Settings
 baseurl:            "" # Base URL must end WITHOUT a slash, default: ""
