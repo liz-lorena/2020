@@ -114,6 +114,11 @@ div#links a.disabled:hover {
 	background-color:#D3D3D3 !important;
 }
 
+div#links a.red.disabled:hover {
+	color:#AD002A !important;
+	border: 1px #AD002A solid!important;
+}
+
 div#links a.black {
 	color: black;
 	border: 1px black solid;
