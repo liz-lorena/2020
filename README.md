@@ -1,2 +1,2 @@
 # links
-📦 Easy replacement for Linktr.ee
+🐭 Easy replacement for Linktr.ee
