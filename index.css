@@ -243,7 +243,7 @@ a:hover, a:focus, a:active {
 	line-height: 130%;
 }
 
-div#title::after {
+/*div#title::after {
 	content:" ";
 	border-left: 10px solid transparent;
 	border-right: 10px solid transparent;
@@ -253,7 +253,7 @@ div#title::after {
 	margin-left: 50%;
 	margin-top: 0px;
 	display: block;
-}
+}*/
 
 div#title, #status p.stuff, #about p.stuff {
 	width: 100%;
