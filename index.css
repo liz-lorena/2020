@@ -352,9 +352,9 @@ em {
 	#top {
 		display: visible;
 		float: left;
-		margin-bottom: 25px;
-		padding-top: 38px;
-		padding-bottom: 38px;
+		margin-bottom: 20px;
+		padding-top: 30px;
+		padding-bottom: 30px;
 		border-bottom: 3px solid black;
 		border-top: 3px solid black;
 	}
