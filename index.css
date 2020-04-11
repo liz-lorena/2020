@@ -307,10 +307,6 @@ a.nav:hover, a.nav:focus {
 	color: #08aca2;
 }
 
-p.stuff span:hover {
-	cursor: help;
-}
-
 em {
 	font-style: italic !important;
 }
