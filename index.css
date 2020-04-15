@@ -343,7 +343,7 @@ em {
 	div#links a {
 		width: 300px;
 		float: left;
-		margin: 25px;
+		/*margin: 25px;*/
 		padding: 18px;
 		font-size: 14pt;
 		letter-spacing: 3px;
