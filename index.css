@@ -223,8 +223,8 @@ a:hover, a:focus, a:active {
 	background-color: #F6F6F6;
 	padding: 10px 0px 15px 0px;
 	border-radius: 0px;
-	border-bottom: 2px solid #D6617D;
-	border-top: 2px solid #D6617D;
+	border-bottom: 2px solid white;
+	border-top: 2px solid white;
 	width:100%;
 }
 
@@ -355,8 +355,8 @@ em {
 		margin-bottom: 20px;
 		padding-top: 30px;
 		padding-bottom: 30px;
-		border-bottom: 3px solid #D6617D;
-		border-top: 3px solid #D6617D;
+		border-bottom: 3px solid white;
+		border-top: 3px solid white;
 	}
 
 	div#title, #status p.stuff, #about p.stuff {
