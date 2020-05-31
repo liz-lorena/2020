@@ -11,7 +11,7 @@ permalink:          /:year/:month/:day/:title # Post permalink
 timezone:           America/New_York # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 language:           en-US
 favicon:            https://lizlorena.com/img/logos/cozymaus-2020-16x16-2.png
-logo:               https://lizlorena.com/img/logos/cozymaus-2020-transparent-2.png
+logo:               https://lizlorena.com/img/logos/cozymaus-logo-2020-new-round.png
 
 # Pagination Settings
 paginate_path: "/blog/pg-:num/"
