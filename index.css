@@ -378,7 +378,6 @@ em {
 		border-radius: 50%; 
 		height: 260px; 
 		padding: 20px; 
-		float: right;
 	}
 
 	#status a.nav {
@@ -386,12 +385,10 @@ em {
 	}
 
 	#status {
-		width: 31%;	
 		float: left;
 	}
 
 	#about {
-		width: 69%;
 		float: left;
 	}
 
