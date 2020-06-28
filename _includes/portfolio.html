@@ -8,10 +8,10 @@
             <p class="date">{{ post.category }}</p>-->
                     
             {% if post.external != "yes" %}
-            <a href="{{ post.link }}" class="post">
+            <a href="{{ post.link }}" class="post" title="{{ post.title }}">
                
                     {% else %}
-            <a href="{{ post.link }}" rel="noopener" target="_blank" class="post">
+            <a href="{{ post.link }}" rel="noopener" target="_blank" class="post" title="{{ post.title }}">
                 
             
              {% endif %}        
