@@ -278,7 +278,7 @@ padding-top:20px;
 	width: 100%;
 }
 
-div#title h1, div.stuff h2, div.stuff h3 {
+div#title h1, div.stuff h2, div.stuff h3, div.stuff h4  {
 	background-color: #fafafa;
 	border: 1px solid #dddddd;
 	color: black;
@@ -376,12 +376,12 @@ width:100%!important;
 		margin: 0 auto!important;
 	}
 
-	div#title h3 {
+	div#title h1 {
 		font-size: 24pt;
 		padding: 14px;
 	}
 	
-	div.stuff h3, div.stuff h2, div#title h1 {
+	div.stuff h4, div.stuff h3, div.stuff h2, div#title h1 {
 		font-size:24pt;
 	}
 
