@@ -291,6 +291,18 @@ div#title h1, div.stuff h2, div.stuff h3, div.stuff h4  {
 	text-align: center;
 }
 
+div#title h1 {
+	font-size: 26pt;
+}
+
+div.stuff h2 {
+	font-size: 24pt;
+}
+
+div.stuff h3 {
+	font-size: 22pt;
+}
+
 a.nav {
 	color: black;
 	width: 35px;
