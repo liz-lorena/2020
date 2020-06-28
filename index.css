@@ -389,13 +389,13 @@ width:100%!important;
 	}
 
 	div#title h1 {
-		font-size: 24pt;
+		/*font-size: 24pt;*/
 		padding: 14px;
 	}
 	
-	div.stuff h4, div.stuff h3, div.stuff h2, div#title h1 {
+	/*div.stuff h4, div.stuff h3, div.stuff h2, div#title h1 {
 		font-size:24pt;
-	}
+	}*/
 
 	#status p.stuff, #about p.stuff {
 		padding-left: 0px;
