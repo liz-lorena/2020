@@ -10,8 +10,8 @@ baseurl:            "" # Base URL must end WITHOUT a slash, default: ""
 permalink:          /projects/:title # Post permalink
 timezone:           America/New_York # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 language:           en-US
-favicon:            https://cozymaus.com/img/logos/cozymaus-logo-2020-new-transparent.png
-logo:               https://cozymaus.com/img/logos/cozymaus-logo-2020-new-round.png
+favicon:            https://cozymaus.github.io/img/logos/cozymaus-logo-2020-new-transparent.png
+logo:               https://cozymaus.github.io/img/logos/cozymaus-logo-2020-new-round.png
 
 # Pagination Settings
 paginate_path: "/blog/pg-:num/"
