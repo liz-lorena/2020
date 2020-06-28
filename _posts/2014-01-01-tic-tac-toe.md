@@ -20,6 +20,6 @@ relevant: "no"
 
 <img src="https://lizlorena.com/img/TicTacToe.png" alt="" class="img-fluid"/>
 
-<h4>The Take Away</h4>
+<h3>The Take Away</h3>
 
 <p>I should go back an experiment with Visual Basic again to see what else I can use the language for and what other games I could make with it because it's a really easy language. I recommend this as a first language to anyone new to programming and because it's super easy to use the built-in graphics called "forms".</p>
