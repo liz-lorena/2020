@@ -75,6 +75,10 @@ div#links a {
   	transition: .3s;
 }
 
+div#links a.post:hover {
+	padding:0px!important;
+}
+
 span.green, span.blue, span.red, span.purple, span.black, span.yellow {
 	letter-spacing: 2px;
 	text-transform: uppercase;
