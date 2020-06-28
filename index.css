@@ -313,6 +313,10 @@ em {
 	font-style: italic !important;
 }
 
+#links.portfolio {
+width:100%!important;
+}
+
 @media (max-width: 1200px) {
 
 	#top {
