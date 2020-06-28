@@ -7,5 +7,5 @@ role: Web Designer
 img: linkspage.jpg
 link: http://cozymaus.github.io
 excerpt: This page includes a short bio and links to my personal blogs.
-external: "yes"
+external: "no"
 ---
