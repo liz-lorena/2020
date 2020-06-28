@@ -296,7 +296,7 @@ p.stuff a, div.stuff p a {
 	
 }
 
-p.stuff a:hover, div.stuff p:hover {
+p.stuff a:hover, div.stuff a:hover {
 	color: #AD002A;
 	text-decoration: underline;
 }
