@@ -342,8 +342,8 @@ width:100%!important;
 		display: none;
 	}
 	
-	#links {
-		width: 1362px;
+	#links, #links.portfolio {
+		width: 1362px!important;
 	}
 	
 	div#links a {
