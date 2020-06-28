@@ -232,7 +232,7 @@ a:hover, a:focus, a:active {
 	display: visible;
 }
 
-#status p.stuff, #about p.stuff, #about div.stuff p, div.stuff p {
+#status p.stuff, #about p.stuff, div.stuff p {
 	color: black;
 	text-align: left;
 	font-size: 12pt;
@@ -258,7 +258,7 @@ div#title, #status p.stuff, #about p.stuff, div.stuff {
 	margin: 0 auto;
 }
 
-p.stuff, div.stuff, div.stuff p {
+div.stuff p {
 padding-top:20px;
 }
 
