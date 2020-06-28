@@ -1,0 +1,36 @@
+
+<div id="links">
+	
+
+	{% for post in site.posts %}
+    
+       <!-- <div class="header">
+            <p class="date">{{ post.category }}</p>-->
+                    
+            {% if post.external != "yes" %}
+            <a href="{{ post.link }}" class="post">
+               
+                    {% else %}
+            <a href="{{ post.link }}" rel="noopener" target="_blank" class="post">
+                
+            
+             {% endif %}        
+			
+			<!--<h1>{{ post.title }}</h1>-->
+             <img src="https://lizlorena.com/img/{{ post.img }}" class="img-fluid" alt="{{ post.title }}">
+		       <!-- <p class="excerpt">{{ post.excerpt }}</p>-->
+			</a>
+            <!--<p class="date">{{ post.projectDate }}</p>
+        </div>-->
+        
+                    
+          <!--{% if post.external != "yes" %}
+            <a href="{{ post.link }}" class="more">More about this →</a>
+                    {% else %}
+            <a href="{{ post.link }}" rel="noopener" class="more" target="_blank">More about this →</a>
+                    {% endif %}-->
+   <!--</div>-->
+
+    {% endfor %}
+	
+</div>
