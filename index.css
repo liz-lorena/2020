@@ -353,7 +353,6 @@ em {
 		display: visible;
 		float: left;
 		margin-bottom: 20px;
-		padding-top: 30px;
 		padding-bottom: 30px;
 		border-bottom: 3px solid white;
 		border-top: 3px solid white;
@@ -376,8 +375,7 @@ em {
 
 	#status img {
 		border-radius: 50%; 
-		height: 260px; 
-		padding: 20px; 
+		height: 150px; 
 	}
 
 	#status a.nav {
