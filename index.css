@@ -278,7 +278,7 @@ padding-top:20px;
 	width: 100%;
 }
 
-div#title h3, div.stuff h3 {
+div#title h1, div.stuff h2, div.stuff h3 {
 	background-color: #fafafa;
 	border: 1px solid #dddddd;
 	color: black;
@@ -289,10 +289,6 @@ div#title h3, div.stuff h3 {
 	font-size: 20pt;
 	margin-top: 10px;
 	text-align: center;
-}
-
-div.stuff h3 {
-padding: 10px 0;
 }
 
 a.nav {
@@ -385,7 +381,7 @@ width:100%!important;
 		padding: 14px;
 	}
 	
-	div.stuff h3 {
+	div.stuff h3, div.stuff h2, div#title h1 {
 		font-size:24pt;
 	}
 
