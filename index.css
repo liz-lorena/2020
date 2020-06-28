@@ -358,6 +358,10 @@ width:100%!important;
 		font-size: 14pt;
 		letter-spacing: 3px;
 	}
+	
+	div#links.portfolio a {
+		height:300px;
+	}
 
 	#top {
 		display: visible;
