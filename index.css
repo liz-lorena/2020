@@ -371,7 +371,8 @@ width:100%!important;
 	}
 	
 	div#links.portfolio a {
-		height:300px;
+		width:414px;
+		height:414px;
 	}
 
 	#top {
