@@ -98,7 +98,9 @@
         
         <div class="stuff">
       
+        {% if page.categories[0] !== "" %}
         {% include post-header.html %}
+        {% endif %}
         {{content}}
           
        </div>
