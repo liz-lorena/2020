@@ -379,6 +379,7 @@ text-align:center;
 		padding: 18px;
 		font-size: 14pt;
 		letter-spacing: 3px;
+		margin: 0 20px 40px 20px;
 	}
 	
 	div#links.portfolio a {
@@ -389,7 +390,7 @@ text-align:center;
 	#top {
 		display: visible;
 		float: left;
-		margin-bottom: 20px;
+		margin-bottom: 40px;
 		padding-bottom: 30px;
 		border-bottom: 3px solid white;
 		border-top: 3px solid white;
