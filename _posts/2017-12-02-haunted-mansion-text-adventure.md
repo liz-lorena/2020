@@ -10,7 +10,7 @@ excerpt: This is my second game made in Java, and it is a text-adventure.
 relevant: "no"
 ---
 
-<img src="https://lizlorena.com/img/escapegame.png" alt="" class="img-fluid"/>
+<img src="https://cozymaus.github.io/img/escapegame.png" alt="" class="img-fluid"/>
 
 <p class="caption"><a href="https://github.com/cozymaus/oop-text-adventure" target="_blank">View Source Code</a></p>
 
@@ -18,6 +18,6 @@ relevant: "no"
 
 <p>Anyway, the second complete Java game I did was a text adventure which takes place in a haunted mansion. It was the final group project for my junior object oriented programming class in college. The controls are simple as it's just entering commands from the list of available commands, as is typical in text adventures. I grasped Object classes much easier in this class, which made for a better game with much&nbsp;<em>much</em> better code. I had always wanted to make a game like this, so I can cross that off my bucket list.</p>
 
-<h4>The Take Away</h4>
+<h3>The Take Away</h3>
 
 <p>I should really learn how to integrate a GUI in the Eclipse IDE for Java. Also, I could experiment making more text adventure games because they're fun to write. I also learned that drawing levels out on paper is super useful for game designing. It's especially useful when making games where you have to rely on your imagination and text to "see" the game.</p>
