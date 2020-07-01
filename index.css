@@ -369,11 +369,11 @@ text-align:center;
 	}
 	
 	#links, #links.portfolio {
-		width: 1362px!important;
+		width: 1100px!important;
 	}
 	
 	div#links a {
-		width: 300px;
+		width: 235px;
 		float: left;
 		/*margin: 25px;*/
 		padding: 18px;
@@ -382,8 +382,8 @@ text-align:center;
 	}
 	
 	div#links.portfolio a {
-		width:414px;
-		height:414px;
+		width:510px;
+		height:510px;
 	}
 
 	#top {
@@ -396,7 +396,7 @@ text-align:center;
 	}
 
 	div#title, div.stuff {
-		width: 1322px!important;
+		width: 1060px!important;
 		margin: 0 auto!important;
 	}
 
