@@ -345,6 +345,10 @@ width:100%!important;
 
 
 @media (min-width: 1200px) {
+	
+	div.stuff img {
+    	padding: 20px 20%;
+	}
 
 	#status p.stuff, #about p.stuff, div.stuff p, div.stuff li {
 		font-size: 18pt;
