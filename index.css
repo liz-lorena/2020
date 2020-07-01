@@ -244,10 +244,8 @@ a:hover, a:focus, a:active {
 
 #status p.stuff, #about p.stuff, div.stuff p, div.stuff li {
 	color: black;
-	text-align: left;
 	font-size: 12pt;
 	font-family: sans-serif;
-	text-align: left;
 	line-height: 130%;
 }
 
