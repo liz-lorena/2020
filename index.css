@@ -334,6 +334,10 @@ em {
 width:100%!important;
 }
 
+p.caption {
+text-align:center;
+}
+
 @media (max-width: 1200px) {
 
 	#top {
