@@ -13,14 +13,15 @@ html {
 }
 
 body {
-	background: linear-gradient(-90deg, #FAB4C5, #AD002A);
+	background: black;
+	/*background: linear-gradient(-90deg, #FAB4C5, #AD002A);
 	background-size: 200% 200%;
 	-webkit-animation: Gradient 5s ease infinite;
 	-moz-animation: Gradient 5s ease infinite;
-	animation: Gradient 5s ease infinite;
+	animation: Gradient 5s ease infinite;*/
 }
 
-
+/*
 @-webkit-keyframes Gradient {
 	0% {
 		background-position: 0% 50%
@@ -56,6 +57,7 @@ body {
 		background-position: 0% 50%
 	}
 }
+*/
 
 strong {
 	font-weight:bold!important;
