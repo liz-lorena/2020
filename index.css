@@ -1,11 +1,11 @@
 ::-moz-selection { /* Code for Firefox */
 	color: white;
-	background: #AD002A;
+	background: #E0245E;
 }
 
 ::selection {
 	color: white;
-	background: #AD002A;
+	background: #E0245E;
 }
 
 html {
@@ -14,7 +14,7 @@ html {
 
 body {
 	background: black;
-	/*background: linear-gradient(-90deg, #FAB4C5, #AD002A);
+	/*background: linear-gradient(-90deg, #FAB4C5, #E0245E);
 	background-size: 200% 200%;
 	-webkit-animation: Gradient 5s ease infinite;
 	-moz-animation: Gradient 5s ease infinite;
@@ -125,8 +125,8 @@ div#links a.disabled:hover {
 }
 
 div#links a.red.disabled:hover {
-	color:#AD002A !important;
-	border: 1px #AD002A solid!important;
+	color:#E0245E !important;
+	border: 1px #E0245E solid!important;
 }
 
 div#links a.black {
@@ -145,18 +145,18 @@ div#links a.black:hover {
 }
 
 div#links a.red {
-	color: #AD002A;
-	border: 1px #AD002A solid;
+	color: #E0245E;
+	border: 1px #E0245E solid;
 }
 
 span.red {
-	color: #AD002A;
+	color: #E0245E;
 }
 
 div#links a.red:hover {
 	color: white;
 	border: 1px white solid;
-	background-color: #AD002A;
+	background-color: #E0245E;
 }
 
 div#links a.yellow {
@@ -312,12 +312,12 @@ a.nav {
 }
 
 p.stuff a, div.stuff a {
-	color: #AD002A;
+	color: #E0245E;
 	transition: .3s;	
 }
 
 p.stuff a:hover, div.stuff a:hover {
-	color: #AD002A;
+	color: #E0245E;
 	text-decoration: underline;
 }
 
