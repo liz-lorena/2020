@@ -381,6 +381,12 @@ div.stuff span, #links {
 	font-size:18pt;
 }
 
+div.stuff img, div.stuff iframe, div.stuff video {
+        padding: 20px 0 0 0;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
 
 @media (max-width: 1200px) {
 
@@ -440,12 +446,6 @@ div.stuff span, #links {
   padding:50px;
   transform: rotateY(180deg);
 } 
-	div.stuff img, div.stuff iframe, div.stuff video {
-        padding: 20px 0 0 0;
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	}
 
 
 	span.green, span.blue, span.red, span.purple, span.black, span.yellow {
