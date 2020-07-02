@@ -368,6 +368,11 @@ letter-spacing: 0;
   color: black;
 } 
 
+#status img {
+	height: 200px; 
+	width: 200px; 
+}
+
 @media (max-width: 1200px) {
 
 	#top {
@@ -426,7 +431,7 @@ letter-spacing: 0;
 
 	
 	div.stuff img {
-    		padding: 20px 0;
+        padding: 20px 0;
 		display: block;
 		margin-left: auto;
 		margin-right: auto;
@@ -498,6 +503,7 @@ letter-spacing: 0;
 	#status img {
 		border-radius: 50%; 
 		height: 140px; 
+		width: 140px; 
 	}
 
 	#status a.nav {
