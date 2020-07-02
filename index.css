@@ -413,6 +413,7 @@ font-weight: normal;
 
 .flip-box-back p.title {
 	font-weight: bold;
+	text-transform: uppercase;
 }
 	
 	div.stuff img {
