@@ -440,14 +440,11 @@ div.stuff span, #links {
   padding:50px;
   transform: rotateY(180deg);
 } 
-
-
-	
-	div.stuff img {
+	div.stuff img, div.stuff iframe, div.stuff video {
         padding: 20px 0;
-		display: block;
-		margin-left: auto;
-		margin-right: auto;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 	}
 
 
