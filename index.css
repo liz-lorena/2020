@@ -336,6 +336,33 @@ p.caption {
 text-align:center;
 }
 
+.flip-box-back p {
+	padding-bottom:20px;
+	text-transform: none;
+	font-family: sans-serif;
+line-height: 130%;
+font-size: 16pt;
+font-family: sans-serif;
+font-weight: normal;
+letter-spacing: 0;
+}
+
+.flip-box-back p.excerpt {
+	text-align:left;
+}
+
+.flip-box-back p.title {
+	font-weight: bold;
+	text-transform: uppercase;
+	letter-spacing: 3px;
+}
+
+/* Style the back side */
+.flip-box-back {
+  padding-top:35px;
+  color: black;
+} 
+
 @media (max-width: 1200px) {
 
 	#top {
@@ -343,8 +370,6 @@ text-align:center;
 	}
 
 }
-
-
 
 @media (min-width: 1200px) {
 
@@ -393,30 +418,10 @@ text-align:center;
 	border: 1px solid #4639a5;
   background-color: white;
   padding:50px;
-  color: black;
   transform: rotateY(180deg);
 } 
 
-.flip-box-back p {
-	padding-bottom:20px;
-	text-transform: none;
-	font-family: sans-serif;
-line-height: 130%;
-font-size: 16pt;
-font-family: sans-serif;
-font-weight: normal;
-letter-spacing: 0;
-}
 
-.flip-box-back p.excerpt {
-	text-align:left;
-}
-
-.flip-box-back p.title {
-	font-weight: bold;
-	text-transform: uppercase;
-	letter-spacing: 3px;
-}
 	
 	div.stuff img {
     		padding: 20px 0;
