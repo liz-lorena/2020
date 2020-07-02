@@ -212,8 +212,8 @@ a:hover, a:focus, a:active {
 
 #links {
 	margin: 0 auto;
-	width: 315px;
-	padding-bottom:30px;
+	width: 100%;
+	/*padding-bottom:30px;*/
 }
 
 #s-m-t-tooltip {
