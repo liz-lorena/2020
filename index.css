@@ -373,6 +373,10 @@ letter-spacing: 0;
 	width: 200px; 
 }
 
+#status p.stuff, #about p.stuff, div.stuff p, div.stuff li {
+	font-size: 18pt;
+}
+
 @media (max-width: 1200px) {
 
 	#top {
@@ -437,9 +441,6 @@ letter-spacing: 0;
 		margin-right: auto;
 	}
 
-	#status p.stuff, #about p.stuff, div.stuff p, div.stuff li {
-		font-size: 18pt;
-	}
 
 	span.green, span.blue, span.red, span.purple, span.black, span.yellow {
 		font-size: 14pt;
