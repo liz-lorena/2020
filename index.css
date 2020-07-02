@@ -212,7 +212,7 @@ a:hover, a:focus, a:active {
 
 #links {
 	margin: 0 auto;
-	width: 250px;
+	width: 315px;
 	padding-bottom:30px;
 }
 
@@ -377,6 +377,11 @@ letter-spacing: 0;
 	font-size: 18pt;
 }
 
+div.stuff span, #links {
+	font-size:18pt;
+}
+
+
 @media (max-width: 1200px) {
 
 	#top {
@@ -386,6 +391,10 @@ letter-spacing: 0;
 }
 
 @media (min-width: 1200px) {
+
+	div.stuff span {
+		font-size:12pt;
+	}
 
 	 /* The flip box container - set the width and height to whatever you want. We have added the border property to demonstrate that the flip itself goes out of the box on hover (remove perspective if you don't want the 3D effect */
 .flip-box {
