@@ -388,6 +388,33 @@ div.stuff img, div.stuff iframe, div.stuff video {
 	margin-right: auto;
 }
 
+.flip-box.logo {
+    width: 140px;
+    height: 140px;
+    padding: 0;
+    background-color: transparent;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.flip-box-inner.logo {
+    width: 140px;
+    height: 140px;
+}
+
+.flip-box-front.logo {
+    padding: 0px;
+    border-radius: 100%;
+    border: none;
+    background: transparent;
+}
+
+.flip-box-back.logo {
+    border: none;
+    padding: 0;
+    background: transparent;
+}
+
 @media (max-width: 1200px) {
 
 	#top {
