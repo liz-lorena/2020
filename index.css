@@ -384,13 +384,13 @@ text-align:center;
 .flip-box-front {
   color: black;
   background-color: white;
-  	border: 1px solid blue;
+  	border: 1px solid #4639a5;
   	padding: 18px;
 }
 
 /* Style the back side */
 .flip-box-back {
-	border: 1px solid blue;
+	border: 1px solid #4639a5;
   background-color: white;
   padding:50px;
   color: black;
