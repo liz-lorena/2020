@@ -6,7 +6,7 @@ category: Unity 3D Game
 role: Game Developer and Designer
 img: phonyreality.jpg
 link: /projects/phony-reality
-excerpt: This is my second game made in the Unity game engine. It's a 3D walking simulator with simple fetch quests.
+excerpt: This is the second game I made in the Unity game engine. It's a 3D walking simulator with simple fetch quests. The goal of the game is to find your smartphone in a strange surreal world. It was fascinating to learn more C# for this project and how object-oriented programming works in a game with 3D assets.
 relevant: "no"
 ---
 
