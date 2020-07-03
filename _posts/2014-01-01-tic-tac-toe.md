@@ -6,7 +6,7 @@ category: Visual Basic Game
 role: Game Developer
 img: tictactoe2.jpg
 link: /projects/tic-tac-toe
-excerpt: This is my first completed game made in Visual Basic.
+excerpt: This was my first complete game made in the Visual Basic programming language. This was the final project for my very first programming class, which I took at the beginning of my junior year of high school. This version of the game has some bug fixes.
 relevant: "no"
 ---
 
