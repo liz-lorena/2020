@@ -6,7 +6,7 @@ category: HTML Website
 role: Web Designer
 img: firstportfolio.jpg
 link: /projects/first-portfolio
-excerpt: My first portfolio was a one-page design made with HTML, CSS, Bootstrap, and Javascript. I repurposed a design by <a href="https://www.taniarascia.com/" target="_blank" rel="nofollow">Tania Rascia</a> which was freely available for use as a template on her Github. I used some simple jQuery for the projects portion of the website. This was the first stepping stone to making my own complete personal website from scratch.
+excerpt: My first portfolio was a one-page design made with HTML, CSS, Bootstrap, and Javascript. I repurposed a design by Tania Rascia which was freely available for use as a template on her Github. I used some simple jQuery for the projects portion of the website. This was the first stepping stone to making my own complete personal website from scratch.
 ---
 
 <img src="https://cozymaus.github.io/img/firstportfoliofromscratchss.png" alt="" class="img-fluid"/>
@@ -19,7 +19,7 @@ excerpt: My first portfolio was a one-page design made with HTML, CSS, Bootstrap
 
 <p class="caption"><a href="https://cozymaus.github.io/portfolio-2017" target="_blank">Visit Site</a> • <a href="https://github.com/cozymaus/portfolio-2017" target="_blank">Source Code</a></p>
 
-<p>My first stable portfolio site was made thanks to the work of <a href="http://taniarascia.com" target="_blank" rel="nofollow">Tania Rascia</a>, a web developer who makes extremely useful tutorials for web development and design. This particular theme was made available by her for free on Github <a href="https://github.com/taniarascia/portfolio" target="_blank" rel="nofollow">here</a>. She has a <a href="https://www.patreon.com/taniarascia" target="_blank" rel="nofollow">Patreon</a>, so you can support her there!</p>
+<p>My first stable portfolio site was made thanks to the work of <a href="http://taniarascia.com" target="_blank" rel="nofollow">Tania Rascia</a>, a web developer who makes extremely useful tutorials for web development and design. This particular theme was made available by her for free on her Github.</p>
 
 <p>This theme is a trendy one page theme that looks fabulous on mobile with its sliding menu. Because at this point I was learning about the importance of responsiveness in modern web design, I took apart and reassembled this code with some modifications to learn further. Its simplicity makes it best for a resume-style personal website.</p>
 
