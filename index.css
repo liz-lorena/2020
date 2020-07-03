@@ -387,7 +387,7 @@ div.stuff img, div.stuff iframe, div.stuff video {
   background-color: black;
   width: 510px;
   height: 510px;
-  perspective: 1000px; /* Remove this if you don't want the 3D effect */
+  perspective: 2000px; /* Remove this if you don't want the 3D effect */
 }
 
 /* This container is needed to position the front and back side */
@@ -479,7 +479,7 @@ div.stuff img, div.stuff iframe, div.stuff video {
   background-color: black;
   width: 510px;
   height: 510px;
-  perspective: 1000px; /* Remove this if you don't want the 3D effect */
+  perspective: 2000px; /* Remove this if you don't want the 3D effect */
 }
 
 /* This container is needed to position the front and back side */
