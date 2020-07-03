@@ -6,6 +6,6 @@ category: HTML Website
 role: Web Designer
 img: fifthportfolio.jpg
 link: http://cozymaus.github.io/portfolio-2019
-excerpt: My fifth portfolio is an original design made with HTML and CSS. It is my current portfolio site.
+excerpt: My fifth portfolio is an original design made with HTML and CSS. The portfolio section is in a grid of 4 columns. Each project photo has a short summary below it. There are also multiple pages that can be accessed through a standard navigation bar. It was an attempt at minimalism with function over form, but it eventually looked too cluttered for my taste.
 external: "yes"
 ---
