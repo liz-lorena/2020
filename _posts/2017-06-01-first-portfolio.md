@@ -6,7 +6,7 @@ category: HTML Website
 role: Web Designer
 img: firstportfolio.jpg
 link: /projects/first-portfolio
-excerpt: My first portfolio was a one-page design made with HTML, CSS, Bootstrap, and Javascript.
+excerpt: My first portfolio was a one-page design made with HTML, CSS, Bootstrap, and Javascript. I repurposed a design by <a href="https://www.taniarascia.com/" target="_blank" rel="nofollow">Tania Rascia</a> which was freely available for use as a template on her Github. I used some simple jQuery for the projects portion of the website. This was the first stepping stone to making my own complete personal website from scratch.
 ---
 
 <img src="https://cozymaus.github.io/img/firstportfoliofromscratchss.png" alt="" class="img-fluid"/>
