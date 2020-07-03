@@ -13,7 +13,7 @@ external: "no"
 <p class="caption"><a href="https://cozymaus.com" target="_blank">Visit CozyMaus.com</a> • <a href="https://github.com/cozymaus/cozymaus.github.io" target="_blank">View Source Code</a></p>
 <h3>Change History</h3>
 <img src="https://cozymaus.github.io/img/links-page-v1.jpg" alt="" class="img-fluid"/>
-<img src="https://cozymaus.github.io/img/links-page-v2.jpg" alt="" class="img-fluid"/>
+<img src="https://cozymaus.github.io/img/links-page-v2.png" alt="" class="img-fluid"/>
 <img src="https://cozymaus.github.io/img/links-page-v3.png" alt="" class="img-fluid"/>
 <img src="https://cozymaus.github.io/img/links-page-v3-long-v1.png" alt="" class="img-fluid"/>
 <img src="https://cozymaus.github.io/img/links-page-v3-long-v2.png" alt="" class="img-fluid"/>
