@@ -6,7 +6,7 @@ category: HTML Website
 role: Web Designer
 img: fourthportfolio.jpg
 link: /projects/fourth-portfolio
-excerpt: My fourth portfolio is an original design made with HTML, CSS, Bootstrap, some Javascript, and Jekyll. This website was designed mainly with responsiveness in mind. My projects are lists in a single column and text is minimal. This is also when I started having fun with tooltip styling.
+excerpt: My fourth portfolio is an original design made with HTML, CSS, Bootstrap, some Javascript, and Jekyll. This website was designed to be a dark theme and with responsiveness in mind. My projects are lists in a single column and text is minimal. This is also when I started having fun with tooltip styling and bright colors.
 ---
 
 <img src="https://cozymaus.github.io/img/portfoliomid2018mobile.png" alt="" class="img-fluid"/>
