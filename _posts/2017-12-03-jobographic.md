@@ -6,7 +6,7 @@ category: HTML Website
 role: Web Developer
 img: jobographic2.jpg
 link: /projects/jobographic
-excerpt: This is a web application I made with four teammates. With this website you can find jobs and companies in your area and also get directions to them. It uses four APIs, Javascript, jQuery, AJAX, and PHP and was developed using Amazon's Cloud 9. My responsibilities included the Google Maps Embed API, the Github Jobs API, styling, and debugging. Note that the Google Autocomplete API may not work on the current host of this website.
+excerpt: I made this web application with four teammates as the final project for our Advanced Web Design Technologies course. With this website you can find jobs and companies in your area and also get directions. It uses four APIs, Javascript, jQuery, AJAX, and PHP. My responsibilities included the Google Maps Embed API, the Github Jobs API, styling, and debugging. Note that the Google Autocomplete API may not work on the current host of this website.
 external: "yes"
 ---
 
