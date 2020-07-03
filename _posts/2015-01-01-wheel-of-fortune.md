@@ -6,7 +6,7 @@ category: Scratch Game
 role: Game Developer
 img: scratchgame.jpg
 link: /projects/wheel-of-fortune
-excerpt: This is my second completed game made with MIT's Scratch game-design tool.
+excerpt: This is my second completed game made with MIT's Scratch game design tool for my intro to computer science class final project my senior year of high school. Although the programming language is rudimentary, the loops in this game are much more complex than in my previous one. This game is an adaptation of the Wheel of Fortune tv game show with some subtle world-building behind the game.
 relevant: "no"
 ---
 
