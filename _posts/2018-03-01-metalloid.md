@@ -6,7 +6,7 @@ category: Unity 2D Game
 role: Game Developer and Designer
 img: metalloid.jpg
 link: /projects/metalloid
-excerpt: This is my first complete game made in the Unity game engine with a classmate. This was our midterm project for a Game Design course my junior year of university. It's a 2D platformer shooter set in space with alien enemies, and the third level is a side-scrolling asteroids game where the player navigates the ship to the end while dodging and shooting asteroids.
+excerpt: This is the first complete game I made in the Unity game engine with a classmate. This was our midterm project for a Game Design course my junior year of university. It's a 2D platformer shooter set in space with alien enemies, and the third level is a side-scrolling asteroids game where the player navigates the ship to the end while dodging and shooting asteroids.
 relevant: "no"
 ---
 
