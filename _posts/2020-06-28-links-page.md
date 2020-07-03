@@ -16,9 +16,7 @@ external: "no"
 <p class="caption">Version 1</p>
 <img src="https://cozymaus.github.io/img/links-page-v2.png" alt="" class="img-fluid"/>
 <p class="caption">Version 2</p>
-<img src="https://cozymaus.github.io/img/links-page-v3.png" alt="" class="img-fluid"/>
-<p class="caption">Version 3</p>
 <img src="https://cozymaus.github.io/img/links-page-v3-long-v1.png" alt="" class="img-fluid"/>
-<p class="caption">Version 3 with First Version of Portfolio Section</p>
+<p class="caption">Version 3</p>
 <img src="https://cozymaus.github.io/img/links-page-v3-long-v2.png" alt="" class="img-fluid"/>
-<p class="caption">Version 3 with Final Portfolio Section</p>
+<p class="caption">Current Version</p>
