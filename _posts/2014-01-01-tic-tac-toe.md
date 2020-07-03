@@ -4,7 +4,7 @@ title: Tic Tac Toe Game
 projectDate: January 2014
 category: Visual Basic Game
 role: Game Developer
-img: tictactoe2.jpg
+img: tictactoe2.png
 link: /projects/tic-tac-toe
 excerpt: "This was my first complete game made in the Visual Basic programming language and the final project for my very first programming class, which I took at the beginning of my junior year of high school. It helped me understand programming and game design loops. It's a simple Tic Tac Toe game with a twist: there are two extra game modes. This version of the game has some bug fixes."
 relevant: "no"
