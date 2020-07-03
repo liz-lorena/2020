@@ -388,6 +388,51 @@ div.stuff img, div.stuff iframe, div.stuff video {
 	margin-right: auto;
 }
 
+/* The flip box container - set the width and height to whatever you want. We have added the border property to demonstrate that the flip itself goes out of the box on hover (remove perspective if you don't want the 3D effect */
+.flip-box.logo {
+  background-color: black;
+  width: 510px;
+  height: 510px;
+  perspective: 1000px; /* Remove this if you don't want the 3D effect */
+}
+
+/* This container is needed to position the front and back side */
+.flip-box-inner.logo {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  transition: transform 0.8s;
+  transform-style: preserve-3d;
+}
+
+/* Do an horizontal flip when you move the mouse over the flip box container */
+.flip-box:hover .flip-box-inner.logo {
+  transform: rotateY(180deg);
+}
+
+/* Position the front and back side */
+.flip-box-front.logo, .flip-box-back.logo {
+  border: 1px solid #4639a5;
+  background-color: white;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  -webkit-backface-visibility: hidden; /* Safari */
+  backface-visibility: hidden;
+}
+
+/* Style the front side */
+.flip-box-front.logo {
+  	padding: 18px;
+}
+
+/* Style the back side */
+.flip-box-back.logo {
+  padding:50px;
+  transform: rotateY(180deg);
+} 
+
 .flip-box.logo {
     width: 140px;
     height: 140px;
@@ -429,7 +474,7 @@ div.stuff img, div.stuff iframe, div.stuff video {
 		font-size:14pt;
 	}
 
-	 /* The flip box container - set the width and height to whatever you want. We have added the border property to demonstrate that the flip itself goes out of the box on hover (remove perspective if you don't want the 3D effect */
+/* The flip box container - set the width and height to whatever you want. We have added the border property to demonstrate that the flip itself goes out of the box on hover (remove perspective if you don't want the 3D effect */
 .flip-box {
   background-color: black;
   width: 510px;
