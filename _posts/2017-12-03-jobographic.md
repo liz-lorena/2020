@@ -7,7 +7,6 @@ role: Web Developer
 img: jobographic2.jpg
 link: /projects/jobographic
 excerpt: I made this web application with four teammates as the final project for our Advanced Web Design Technologies course. With it you can discover and get directions to jobs and companies in your area. It uses four APIs, Javascript, jQuery, AJAX, and PHP. My responsibilities included the Google Maps Embed API, the Github Jobs API, styling, and debugging. Note that the Google Autocomplete API may not work on the current host of this website.
-external: "yes"
 ---
 
 <img src="http://cozymaus.github.io/img/jobographic2.jpg" class="img-fluid">
