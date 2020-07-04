@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Former Links Page and Current Portfolio Site
+title: Former Links Page and Current Portfolio
 projectDate: August 2018 - Present
 category: HTML Page
 role: Web Designer
