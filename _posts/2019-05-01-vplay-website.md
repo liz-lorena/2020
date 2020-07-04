@@ -6,6 +6,6 @@ category: HTML Website
 role: Web Designer and Concept Designer
 img: vplay.jpg
 link: http://vplay.cozymaus.com
-excerpt: This is the website I made from scratch for my 11-person ITI Capstone class start-up project. This website is a one-page theme and incorporates some new things I learned like CSS animations, embedded content, and modal boxes. The product was an augmented reality gaming educational platform for young children with a physical toy subscription box component.
+excerpt: This is the website I made from scratch for my 11-person ITI Capstone class start-up project. This website is a one-page theme and incorporates some new things I learned like CSS animations, embedded content, and modal boxes. The product was an augmented reality gaming educational platform for young children with a physical toy subscription box component. I also helped create flowcharts for the app and some game designs.
 external: "yes"
 ---
