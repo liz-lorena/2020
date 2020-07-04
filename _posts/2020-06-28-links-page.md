@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Links Page (Linktr.ee Replacement) and Current Portfolio Site
+title: Former Links Page and Current Portfolio Site
 projectDate: August 2018 - Present
 category: HTML Page
 role: Web Designer
