@@ -6,7 +6,7 @@ category: Board Game
 role: Game Designer
 img: boardgame.jpg
 link: /projects/game-design-board-game
-excerpt: This was the final project for my Game Design Methodology course in which I and 4 team mates designed a game and built a board game prototype of it. My contributions included the rulebook cover art, some asset art, playtesting, proofreading, and help with game design.
+excerpt: This was the final project for my Game Design Methodology course in which I and four teammates designed a capture the flag-inspired board game and built a prototype of it. My contributions included the rulebook cover art, some asset art, playtesting, proofreading, and help with game design.
 relevant: "no"
 ---
 
