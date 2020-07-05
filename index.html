@@ -3,12 +3,12 @@ layout: default
 title: "all my links and projects"
 ---
 
-<p>Welcome to my coding portfolio! I am a female gamer and artist whose specialty is <strong>front-end web development</strong>. I have been coding since 2013 and graduated in May 2019 from Rutgers University with a B.A. in Information Technology and Informatics. I currently work as a Web Producer full-time. Here you can view a gallery of my 
+<p>Welcome to my coding portfolio! I am a female gamer and artist whose specialty is <strong>front-end web development</strong>. I have been coding since 2013 and graduated in May 2019 from Rutgers University with a B.A. in Information Technology and Informatics. I currently work as a Web Producer full-time. Here you can view a gallery of  
             
             {% assign counter = 0 %}
             {% for post in site.posts %}      
             {% assign counter = counter | plus: 1 %}
             {% endfor %}
 
-<strong>{{ counter }} favorite projects</strong> and connect with me on my favorite online platforms listed below. You can also <a href="/about">read more about me</a> and <a href="/resume.pdf" target="_blank">download my résumé</a>. I last updated this website on {{ site.time | date: '%B %d, %Y' }}.</p>
+<strong>{{ counter }} of my favorite projects</strong> and connect with me on my favorite online platforms listed below. You can also <a href="/about">read more about me</a> and <a href="/resume.pdf" target="_blank">download my résumé</a>. I last updated this website on {{ site.time | date: '%B %d, %Y' }}.</p>
 
