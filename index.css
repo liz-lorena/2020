@@ -465,6 +465,10 @@ div.stuff img, div.stuff iframe, div.stuff video {
 		width: 140px; 
 	}
 
+.excerpt {
+padding-bottom:0px !important;
+}
+
 /*@media (max-width: 600px) {
 	div.columnOne, div.columnTwo {
 		width:100%!important;
