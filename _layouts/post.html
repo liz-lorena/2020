@@ -122,11 +122,11 @@
       <div class="stuff">
         
         {% if page.title != "about me" %}
-        {% include post-header.html %}
-        {% elseif page.title != "curriculum vitae" %}
-        {% include post-header.html %}
+                  {% if page.title != "curriculum vitae" %}
+                      {% include post-header.html %}
+                  {% endif %}
         {% endif %}
-        {% endif %}
+        
         {{content}}
         <p class="caption"><a href="/">Back to Home</a></p>
         <p style="text-align:center;">{% include legend.html %}</p>
