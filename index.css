@@ -465,13 +465,15 @@ div.stuff img, div.stuff iframe, div.stuff video {
 		width: 140px; 
 	}
 
-div.columnOne, div.columnTwo {
+@media (max-width: 600px) {
+	div.columnOne, div.columnTwo {
 		width:100%!important;
 	}
 
 	div.columnOne {
 		border-bottom: 2px solid #AD002A;
 	}
+}
 
 @media (max-width: 1200px) {
 
