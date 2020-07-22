@@ -21,6 +21,10 @@ body {
 	animation: Gradient 5s ease infinite;*/
 }
 
+email::before {
+	content: "liz@cozymaus.com";
+}
+
 /*
 @-webkit-keyframes Gradient {
 	0% {
