@@ -465,7 +465,7 @@ div.stuff img, div.stuff iframe, div.stuff video {
 		width: 140px; 
 	}
 
-@media (max-width: 600px) {
+/*@media (max-width: 600px) {
 	div.columnOne, div.columnTwo {
 		width:100%!important;
 	}
@@ -473,7 +473,7 @@ div.stuff img, div.stuff iframe, div.stuff video {
 	div.columnOne {
 		border-bottom: 2px solid #AD002A;
 	}
-}
+}*/
 
 @media (max-width: 1200px) {
 
@@ -485,7 +485,7 @@ div.stuff img, div.stuff iframe, div.stuff video {
 
 @media (min-width: 1200px) {
 
-div.columnOne {
+/*div.columnOne {
 	width:20%;
 	float:left;
 }
@@ -498,7 +498,7 @@ div.columnOne, div.columnTwo {
 	display: block;
 	position:relative;
 	padding: 5px;
-}
+}*/
 
 	div.stuff span {
 		font-size:14pt;
