@@ -471,6 +471,21 @@ div.stuff img, div.stuff iframe, div.stuff video {
 
 @media (min-width: 1200px) {
 
+div.columnOne {
+	width:20%;
+	float:left;
+}
+
+div.columnTwo {
+	width:80%;
+}
+
+div.columnOne, div.columnTwo {
+	display: block;
+	position:relative;
+	padding: 5px;
+}
+
 	div.stuff span {
 		font-size:14pt;
 	}
