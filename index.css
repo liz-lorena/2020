@@ -629,9 +629,9 @@ div.columnOne, div.columnTwo {
 		float: left;
 	}
 	
-div#links{width:524px !important; }
+div#links{width:510px !important; }
 div#links.portfolio{width:510px!important;}
-div#links a{width:242px;margin-right:0px;}
+div#links a{width:255px;margin-right:0px;margin-left:0px;}
 div#title, div.stuff{width:510px!important;}
 }
 
@@ -639,7 +639,7 @@ div#title, div.stuff{width:510px!important;}
 
 div#links{width:1100px !important; }
 div#links.portfolio{width:1100px!important;}
-div#links a{width:326px;margin-right:20px;}
+div#links a{width:326px;margin-right:20px;margin-left:20px;}
 div#title, div.stuff{width:1060px!important;}
 
 }
