@@ -570,7 +570,8 @@ div.columnOne, div.columnTwo {
 	}
 	
 	div#links a {
-		width: 326px;
+		/*width: 326px;*/
+		width: 29.6984%;
 		float: left;
 		/*margin: 25px;*/
 		padding: 18px;
