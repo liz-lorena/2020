@@ -489,7 +489,7 @@ padding-bottom:0px !important;
 
 }*/
 
-@media (min-width: 1200px) {
+@media (min-width: 600px) {
 
 /*div.columnOne {
 	width:20%;
@@ -628,5 +628,18 @@ div.columnOne, div.columnTwo {
 	#about {
 		float: left;
 	}
+	
+div#links{width:524px !important; }
+div#links.portfolio{width:510px!important;}
+div#links a{width:242px;margin-right:0px;}
+div#title, div.stuff{width:510px!important;}
+}
+
+@media (min-width:1200px) {
+
+div#links{width:1100px !important; }
+div#links.portfolio{width:1100px!important;}
+div#links a{width:326px;margin-right:20px;}
+div#title, div.stuff{width:1060px!important;}
 
 }
