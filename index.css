@@ -517,6 +517,10 @@ div.columnOne, div.columnTwo {
   height: 510px;
   perspective: 2000px; /* Remove this if you don't want the 3D effect */
 }
+	
+div#links.pages a .flip-box {
+  width: 1100px;
+}
 
 /* This container is needed to position the front and back side */
 .flip-box-inner {
@@ -565,7 +569,7 @@ div.columnOne, div.columnTwo {
 		display: none;
 	}
 	
-	#links, #links.portfolio {
+	#links {
 		width: 1100px!important;
 	}
 	
@@ -578,6 +582,13 @@ div.columnOne, div.columnTwo {
 		font-size: 14pt;
 		letter-spacing: 3px;
 		margin: 0 20px 40px 20px;
+	}
+	
+	div#links.pages a {
+		width:1100px;
+		height:510px;
+		padding:0px !important;
+		border: none!important;
 	}
 	
 	div#links.portfolio a {
@@ -629,17 +640,19 @@ div.columnOne, div.columnTwo {
 		float: left;
 	}
 	
-div#links{width:510px !important; }
-div#links.portfolio{width:510px!important;}
-div#links a{width:255px;margin-right:0px;margin-left:0px;}
-div#title, div.stuff{width:510px!important;}
+div#links {width:510px !important; }
+div#links.portfolio {width:510px!important;}
+div#links.pages {width:510px!important;}
+div#links a {width:255px;margin-right:0px;margin-left:0px;}
+div#title, div.stuff {width:510px!important;}
 }
 
 @media (min-width:1200px) {
 
-div#links{width:1100px !important; }
-div#links.portfolio{width:1100px!important;}
-div#links a{width:326px;margin-right:20px;margin-left:20px;}
-div#title, div.stuff{width:1060px!important;}
+div#links {width:1100px !important; }
+div#links.portfolio {width:1100px!important;}
+div#links.pages {width:1100px!important;}
+div#links a {width:326px;margin-right:20px;margin-left:20px;}
+div#title, div.stuff {width:1060px!important;}
 
 }
