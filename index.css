@@ -585,7 +585,7 @@ div#links.pages a .flip-box {
 	}
 	
 	div#links.pages a {
-		width:1100px;
+		width:100%;
 		height:510px;
 		padding:0px !important;
 		border: none!important;
