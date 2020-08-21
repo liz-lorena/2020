@@ -1,55 +1,38 @@
-<div id="links" class="pages">
+<div id="links" class="portfolio">
+	
 
-<a href="/projects" rel="noopener" class="post">
+	{% for post in site.posts limit: 4 %}
+    
+       <!-- <div class="header">
+            <p class="date">{{ post.category }}</p>-->
+
+{% if post.external != "yes" %}
+            <a href="{{ post.link }}" class="post">
                
-<div class="flip-box">
+                    {% else %}
+            <a href="{{ post.link }}" rel="noopener" target="_blank" class="post">
+                
+            
+             {% endif %}    
+
+             <div class="flip-box">
   <div class="flip-box-inner">
     <div class="flip-box-front">
 
       <img src="https://cozymaus.github.io/img/{{ post.img }}" class="img-fluid">
     </div>
     <div class="flip-box-back">
-      <p class="title">Projects</p>
-      <p class="excerpt" style="text-align:left;">My projects.</p>
+      <p class="title">{{ post.title }}</p>
+      <p class="date">{{ post.projectDate }}</p>
+      <p class="excerpt" style="text-align:left;">{{ post.excerpt }}</p>
     </div>
   </div>
 </div> 
 
 </a>
+                    
+            
 
-<a href="http://kemono.cozymaus.com" rel="noopener" target="_blank" class="post">
-               
-<div class="flip-box">
-  <div class="flip-box-inner">
-    <div class="flip-box-front">
-
-      <img src="https://cozymaus.github.io/img/{{ post.img }}" class="img-fluid">
-    </div>
-    <div class="flip-box-back">
-      <p class="title">Kemono Database</p>
-      <p class="excerpt" style="text-align:left;">My current big personal project.</p>
-    </div>
-  </div>
-</div> 
-
-</a>
-
-  
-<a href="https://store.steampowered.com/curator/38329046/" rel="noopener" target="_blank" class="post">
-               
-<div class="flip-box">
-  <div class="flip-box-inner">
-    <div class="flip-box-front">
-
-      <img src="https://cozymaus.github.io/img/{{ post.img }}" class="img-fluid">
-    </div>
-    <div class="flip-box-back">
-      <p class="title">CozyMaus Steam Curator</p>
-      <p class="excerpt" style="text-align:left;">My Steam curator page where I review games on Steam. Here you can also catch me broadcasting from time to time and a link to my videos and archived livestreams on YouTube.</p>
-    </div>
-  </div>
-</div> 
-
-</a>
-  
+    {% endfor %}
+	
 </div>
