@@ -2,7 +2,7 @@
 	
 
 	{% for post in site.posts limit: 4 %}
-    
+    {% if post.featured == "yes" %}
        <!-- <div class="header">
             <p class="date">{{ post.category }}</p>-->
 
@@ -32,7 +32,7 @@
 </a>
                     
             
-
+{% endif %}
     {% endfor %}
 	
 </div>
