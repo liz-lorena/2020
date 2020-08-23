@@ -94,7 +94,7 @@
         <div id="title"><h1>Liz Lorena Berberena</h1></div>
         
         <div class="stuff">
-      
+        {% include pages.html %}
         {% if page.title != "about me" %}
                   {% if page.title != "curriculum vitae" %}
                       {% include post-header.html %}
@@ -102,7 +102,7 @@
         {% endif %}
           
         {{content}}
-        {% include pages.html %}
+          <p style="text-align:center;"><a href="#top">^</a></p>
         <p style="text-align:center;">{% include legend.html %}</p>
        </div>
     </div>
