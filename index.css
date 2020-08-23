@@ -643,9 +643,8 @@ div#links.pages a .flip-box {
 div#links {width:510px !important; }
 div#links.portfolio {width:510px!important;}
 div#links.pages {width:510px!important;}
-div#links a {width:235px;margin-right:0px;margin-left:0px;}
+div#links a {width:255px;margin-right:0px;margin-left:0px;}
 div#title, div.stuff {width:510px!important;}
-div#links a:nth-of-type(odd){margin-right:40px;}
 }
 
 @media (min-width:1200px) {
