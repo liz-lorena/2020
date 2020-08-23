@@ -648,6 +648,18 @@ div#links.pages a .flip-box {
 		float: left;
 	}
 	
+.columnTwo {
+width: 70%;
+display: inline-block;
+position: relative;
+}
+	
+.columnOne {
+float: left;
+padding-right: 10px;
+width: 20%;
+}
+	
 div#links {width:510px !important; }
 div#links.portfolio {width:510px!important;}
 div#links.pages {width:510px!important;}
