@@ -611,8 +611,8 @@ div#links.pages a .flip-box {
 		float: left;
 		margin-bottom: 40px;
 		padding-bottom: 30px;
-		border-bottom: 3px solid white;
-		border-top: 3px solid white;
+		border-bottom: 3px solid #dddddd;
+		border-top: 3px solid #dddddd;
 	}
 
 	div#title, div.stuff {
