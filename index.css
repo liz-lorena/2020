@@ -539,7 +539,7 @@ div#links.pages a .flip-box {
 
 /* Position the front and back side */
 .flip-box-front, .flip-box-back {
-  border: 1px solid #4639a5;
+  border: 1px solid #E0245E;
   background-color: white;
   position: absolute;
   width: 100%;
