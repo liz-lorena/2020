@@ -470,7 +470,8 @@ div.stuff img, div.stuff iframe, div.stuff video {
 	height: 140px; 
 	width: 140px; 
 	border:2px solid #E0245E;
-	}
+	background-color:#E0245E;
+}
 
 .excerpt {
 padding-bottom:0px !important;
