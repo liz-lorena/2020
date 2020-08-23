@@ -345,7 +345,7 @@ width:100%!important;
 }
 
 #links.portfolio a {
-	border: 1px solid #4639a5;
+	border: 1px solid #E0245E;
 }
 
 p.caption {
@@ -418,7 +418,7 @@ div.stuff img, div.stuff iframe, div.stuff video {
 
 /* Position the front and back side */
 .flip-box-front.logo, .flip-box-back.logo {
-  border: 1px solid #4639a5;
+  border: 1px solid #E0245E;
   background-color: white;
   position: absolute;
   width: 100%;
