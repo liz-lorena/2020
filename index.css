@@ -12,6 +12,10 @@ html {
 /*text-transform: lowercase;*/
 }
 
+a {
+color:#E0245E;
+}
+
 body {
 	background: black;
 	/*background: linear-gradient(-90deg, #FAB4C5, #E0245E);
@@ -463,7 +467,7 @@ div.stuff img, div.stuff iframe, div.stuff video {
 	border-radius: 50%; 
 	height: 140px; 
 	width: 140px; 
-	border:1px solid #E0245E;
+	border:2px solid #E0245E;
 	}
 
 .excerpt {
