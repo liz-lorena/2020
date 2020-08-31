@@ -1,11 +1,11 @@
 ::-moz-selection { /* Code for Firefox */
 	color: white;
-	background: #E0245E;
+	background: var(--main-link-color);
 }
 
 ::selection {
 	color: white;
-	background: #E0245E;
+	background: var(--main-link-color);
 }
 
 html { 
@@ -22,11 +22,11 @@ html {
 a {
 font-family:sans-serif;
 font-size:18pt;
-color:#E0245E;
+color:var(--main-link-color);
 }
 
 body {
-	background: black;
+	background: var(--projects-background-color);
 	/*background: linear-gradient(-90deg, #FAB4C5, #E0245E);
 	background-size: 200% 200%;
 	-webkit-animation: Gradient 5s ease infinite;
@@ -81,8 +81,8 @@ strong {
 }
 
 div#links a {
-	color: #08aca2;
-	border: 1px #08aca2 solid;
+	color: var(--main-link-color);
+	border: 1px var(--main-link-color) solid;
 	border-radius: 0px;
 	padding: 15px;
 	letter-spacing: 2px;
@@ -93,7 +93,7 @@ div#links a {
 	display: block;
 	text-align: center;	
 	margin: 20px;
-	background-color: white;
+	background-color: var(--text-background-color);
 	-webkit-transition: .3s; /* Safari */
   	transition: .3s;
 }
@@ -102,7 +102,7 @@ div#links a.post:hover {
 	/*padding:0px!important;*/
 }
 
-span.green, span.blue, span.red, span.purple, span.black, span.yellow {
+span.green, span.red, span.purple {
 	letter-spacing: 2px;
 	text-transform: uppercase;
 	font-weight: 700;
@@ -111,118 +111,52 @@ span.green, span.blue, span.red, span.purple, span.black, span.yellow {
 }
 
 div#links a.green {
-	color: #08aca2;
-	border: 1px #08aca2 solid;
+	color: var(--green-link-color);
+	border: 1px var(--green-link-color) solid;
 }
 
 span.green {
-	color: #08aca2;
+	color: var(--green-link-color);
 }
 
 div#links a.green:hover {
-	color: white;
-	border: 1px white solid;
-	background-color: #08aca2;
-}
-
-div#links a.disabled {
-	color: gray;
-	border: 1px gray solid;
-	background-color:#D3D3D3 !important;
-}
-
-span.disabled {
-	color: gray;
-}
-
-div#links a.disabled:hover {
-	color: gray;
-	border: 1px gray solid;
-	background-color:#D3D3D3 !important;
-}
-
-div#links a.red.disabled:hover {
-	color:#E0245E !important;
-	border: 1px #E0245E solid!important;
-}
-
-div#links a.black {
-	color: black;
-	border: 1px black solid;
-}
-
-span.black {
-	color: black;
-}
-
-div#links a.black:hover {
-	color: white;
-	border: 1px white solid;
-	background-color: black;
+	color: var(--text-background-color);
+	border: 1px var(--text-background-color) solid;
+	background-color: var(--green-link-color);
 }
 
 div#links a.red {
-	color: #E0245E;
-	border: 1px #E0245E solid;
+	color: var(--main-link-color);
+	border: 1px var(--main-link-color) solid;
 }
 
 span.red {
-	color: #E0245E;
+	color: var(--main-link-color);
 }
 
 div#links a.red:hover {
-	color: white;
-	border: 1px white solid;
-	background-color: #E0245E;
-}
-
-div#links a.yellow {
-	color: #e6bb00;
-	border: 1px #e6bb00 solid;
-}
-
-span.yellow {
-	color: #e6bb00;
-}
-
-div#links a.yellow:hover {
-	color: white;
-	border: 1px white solid;
-	background-color: #e6bb00;
-}
-
-div#links a.blue {
-	color: #4682b4;
-	border: 1px #4682b4 solid;
-}
-
-span.blue {
-	color: #4682b4;
-}
-
-div#links a.blue:hover {
-	color: white;
-	border: 1px white solid;
-	background-color: #4682b4;
+	color: var(--text-background-color);
+	border: 1px var(--text-background-color) solid;
+	background-color: var(--main-link-color);
 }
 
 div#links a.purple {
-	color: #4639a5;
-	border: 1px #4639a5 solid;
+	color: var(--purple-link-color);
+	border: 1px var(--purple-link-color) solid;
 }
 
 span.purple {
-	color: #4639a5;
+	color: var(--purple-link-color);
 }
 
 div#links a.purple:hover {
-	color: white;
-	border: 1px white solid;
-	background-color: #4639a5;
+	color: var(--text-background-color);
+	border: 1px var(--text-background-color) solid;
+	background-color: var(--purple-link-color);
 }
 
 a:hover, a:focus, a:active {
-	color: #08aca2;
+	color: var(--main-link-color);
 	/*opacity: .8;*/	
 	text-decoration: none;
 }
@@ -234,9 +168,9 @@ a:hover, a:focus, a:active {
 }
 
 #s-m-t-tooltip {
-	background-color: #fafafa;
-	border: 1px solid #dddddd;
-	color: black;
+	background-color: var(--text-background-color);
+	border: 1px solid var(--border-color);
+	color: var(--text-color);
 	padding: 4px 8px 4px 8px;
 	font-family: sans-serif;
 	letter-spacing: 1px;
@@ -247,11 +181,11 @@ a:hover, a:focus, a:active {
 }
 
 #top, #bottom {
-	background-color: #F6F6F6;
+	background-color: var(--text-background-color);
 	padding: 10px 0px 15px 0px;
 	border-radius: 0px;
-	border-bottom: 2px solid #dddddd;
-	border-top: 2px solid #dddddd;
+	border-bottom: 2px solid var(--border-color);
+	border-top: 2px solid var(--border-color);
 	width:100%;
 }
 
@@ -260,7 +194,7 @@ a:hover, a:focus, a:active {
 }*/
 
 #status p.stuff, #about p.stuff, div.stuff p, div.stuff li {
-	color: black;
+	color: var(--text-color);
 	font-size: 12pt;
 	font-family: sans-serif;
 	line-height: 130%;
@@ -297,9 +231,9 @@ padding-top:20px;
 }
 
 div#title h1, div.stuff h2, div.stuff h3, div.stuff h4  {
-	background-color: #fafafa;
-	border: 1px solid #dddddd;
-	color: black;
+	background-color: var(--heading-background-color);
+	border: 1px solid var(--border-color);
+	color: var(--text-color);
 	padding: 10px;
 	font-family: serif;
 	letter-spacing: 1px;
@@ -323,24 +257,24 @@ div.stuff h3 {
 }
 
 a.nav {
-	color: black;
+	color: var(--text-color);
 	width: 35px;
 	transition: all .3s;
 	display: inline-block;
 }
 
 p.stuff a, div.stuff a {
-	color: #E0245E;
+	color: var(--main-link-color);
 	transition: .3s;	
 }
 
 p.stuff a:hover, div.stuff a:hover {
-	color: #E0245E;
+	color: var(--main-link-color);
 	text-decoration: underline;
 }
 
 a.nav:hover, a.nav:focus {
-	color: #08aca2;
+	color: var(--main-link-color);
 }
 
 em {
@@ -352,7 +286,7 @@ width:100%!important;
 }
 
 #links.portfolio a {
-	border: 1px solid #E0245E;
+	border: 1px solid var(--main-link-color);
 }
 
 p.caption {
@@ -383,7 +317,7 @@ letter-spacing: 0;
 /* Style the back side */
 .flip-box-back {
   padding-top:35px;
-  color: black;
+  color: var(--text-color);
 } 
 
 #status p.stuff, #about p.stuff, div.stuff p, div.stuff li {
@@ -402,7 +336,7 @@ div.stuff img, div.stuff iframe, div.stuff video {
 
 /* The flip box container - set the width and height to whatever you want. We have added the border property to demonstrate that the flip itself goes out of the box on hover (remove perspective if you don't want the 3D effect */
 .flip-box.logo {
-  background-color: black;
+  background-color: var(--projects-background-color);
   width: 510px;
   height: 510px;
   perspective: 2000px; /* Remove this if you don't want the 3D effect */
@@ -425,8 +359,8 @@ div.stuff img, div.stuff iframe, div.stuff video {
 
 /* Position the front and back side */
 .flip-box-front.logo, .flip-box-back.logo {
-  border: 1px solid #E0245E;
-  background-color: white;
+  border: 1px solid var(--main-link-color);
+  background-color: var(--text-background-color);
   position: absolute;
   width: 100%;
   height: 100%;
@@ -476,8 +410,8 @@ div.stuff img, div.stuff iframe, div.stuff video {
 	border-radius: 50%; 
 	height: 140px; 
 	width: 140px; 
-	border:2px solid #E0245E;
-	background-color:#E0245E;
+	border:2px solid var(--main-link-color);
+	background-color:var(--main-link-color);
 }
 
 .excerpt {
@@ -554,8 +488,8 @@ div#links.pages a .flip-box {
 
 /* Position the front and back side */
 .flip-box-front, .flip-box-back {
-  border: 1px solid #E0245E;
-  background-color: white;
+  border: 1px solid var(--main-link-color);
+  background-color: var(--text-background-color);
   position: absolute;
   width: 100%;
   height: 100%;
@@ -618,8 +552,8 @@ div#links.pages a .flip-box {
 		float: left;
 		margin-bottom: 40px;
 		padding-bottom: 30px;
-		border-bottom: 3px solid #dddddd;
-		border-top: 3px solid #dddddd;
+		border-bottom: 3px solid var(--border-color);
+		border-top: 3px solid var(--border-color);
 	}
 
 	div#title, div.stuff {
