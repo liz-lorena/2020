@@ -9,7 +9,7 @@ link: /projects/second-portfolio
 excerpt: My second portfolio was an original multi-page design made with HTML, CSS, Bootstrap, and jQuery. I had fun trying to add creative flairs to this one. When the website loads, you must click an arrow to reveal my portfolio items and a minimalist white theme. I also made a handmade image toggler of example commissions. I might go back and implement Jekyll on this one to be more space-saving.
 ---
 
-<img src="https://cozymaus.github.io/img/secondportfolio.png" alt="" class="img-fluid"/>
+<img src="https://cozymaus.github.io/img/secondportfolio.png" alt="Screenshot of Second Portfolio" class="img-fluid"/>
 
 <p class="caption"><a href="https://cozymaus.github.io/portfolio-2017-v2" target="_blank">Visit Site</a>  • <a href="https://github.com/cozymaus/portfolio-2017-v2" target="_blank">Source Code</a></p>
 
@@ -17,22 +17,22 @@ excerpt: My second portfolio was an original multi-page design made with HTML, C
 
 <p>This was the result courtesy FireShot, with a little editing because the fixed footer really botched the screenshot:</p>
 
-<img src="https://cozymaus.github.io/img/portfoliolate20172.png" alt="" class="img-fluid"/>
+<img src="https://cozymaus.github.io/img/portfoliolate20172.png" alt="Screenshot of Entire Second Portfolio" class="img-fluid"/>
 
-<img src="https://cozymaus.github.io/img/smoooooth.gif" alt="" class="img-fluid"/>
+<img src="https://cozymaus.github.io/img/smoooooth.gif" alt="Gif of Social Buttons" class="img-fluid"/>
 
 <p class="caption">Having fun with image opacity.</p>
 
 <p>The landing page and other pages used a different design, however. I tried to do something fancy with a black background with an inner white border and gold lettering. When you clicked on the white arrow, the landing page would hide, change the colors of my navigation links, and show my work page below it. </p>
 
-<img src="https://cozymaus.github.io/img/portfoliolate2017.png" alt="" class="img-fluid"/>
+<img src="https://cozymaus.github.io/img/portfoliolate2017.png" alt="Screenshot of Second Portfolio Landing Page" class="img-fluid"/>
 
 <p>And if you mouse over my initials...</p>
 
-<img src="https://cozymaus.github.io/img/LB.gif" alt="" class="img-fluid"/>
+<img src="https://cozymaus.github.io/img/LB.gif" alt="Gif of Animated Logo on Second Portfolio" class="img-fluid"/>
 
 <p>You get a smug little froggy smile! 🐸 </p>
 
 <p>The other special thing I tried to do for this version of my portfolio was attempt to make a system of terms, prices, and examples for illustration and web design commissions that never really panned out. The system was too complicated because I tried using these tabs that would swap the content on the screen using Javascript and also my own gallery and preview image script.</p>
 
-<img src="https://cozymaus.github.io/img/newgallery.gif" alt="" class="img-fluid"/>
+<img src="https://cozymaus.github.io/img/newgallery.gif" alt="Gif of Custom jQuery Gallery on Second Portfolio" class="img-fluid"/>
