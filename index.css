@@ -589,7 +589,10 @@ div#links.pages a .flip-box {
 	#about {
 		float: left;
 	}
-	
+
+	p.simple-nav {
+		color:var(--border-color);
+	}
 	
 div#links {width:510px !important; }
 div#links.portfolio {width:510px!important;}
