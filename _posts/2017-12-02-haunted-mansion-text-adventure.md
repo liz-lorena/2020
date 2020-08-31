@@ -10,7 +10,7 @@ excerpt: This second game that I made in the Java programming language is a text
 relevant: "no"
 ---
 
-<img src="https://cozymaus.github.io/img/escapegame.png" alt="" class="img-fluid"/>
+<img src="https://cozymaus.github.io/img/escapegame.png" alt="Title Slide of Haunted Mansion Text Adventure Game Presentation" class="img-fluid"/>
 
 <p class="caption"><a href="https://github.com/cozymaus/oop-text-adventure" target="_blank">View Source Code</a></p>
 
