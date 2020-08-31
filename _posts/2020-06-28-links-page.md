@@ -14,12 +14,12 @@ featured: "yes"
 <p class="caption"><a href="https://cozymaus.com" target="_blank">Visit CozyMaus.com</a> • <a href="https://github.com/cozymaus/cozymaus.github.io" target="_blank">View Source Code</a></p>
 <h3>Change History</h3>
 <p class="caption">Version 1</p>
-<img src="https://cozymaus.github.io/img/linkspage.jpg" alt="" class="img-fluid"/>
+<img src="https://cozymaus.github.io/img/linkspage.jpg" alt="First Screenshot of Links Page" class="img-fluid"/>
 <br>
-<img src="https://cozymaus.github.io/img/links-page-v1.jpg" alt="" class="img-fluid"/>
+<img src="https://cozymaus.github.io/img/links-page-v1.jpg" alt="Second Screenshot of Links Page" class="img-fluid"/>
 <p class="caption">Version 2</p>
-<img src="https://cozymaus.github.io/img/links-page-v2.png" alt="" class="img-fluid"/>
+<img src="https://cozymaus.github.io/img/links-page-v2.png" alt="Third Screenshot of Links Page" class="img-fluid"/>
 <p class="caption">Version 3</p>
-<img src="https://cozymaus.github.io/img/links-page-v3-long-v1.png" alt="" class="img-fluid"/>
+<img src="https://cozymaus.github.io/img/links-page-v3-long-v1.png" alt="Fourth Screenshot of Links Page" class="img-fluid"/>
 <p class="caption">Current Version</p>
-<img src="https://cozymaus.github.io/img/links-page-v3-long-v2.png" alt="" class="img-fluid"/>
+<img src="https://cozymaus.github.io/img/links-page-v3-long-v2.png" alt="Fifth Screenshot of Links Page" class="img-fluid"/>
