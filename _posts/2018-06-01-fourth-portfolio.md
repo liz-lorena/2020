@@ -9,11 +9,11 @@ link: /projects/fourth-portfolio
 excerpt: My fourth portfolio is an original design made with HTML, CSS, Bootstrap, some Javascript, and Jekyll. This website was designed to be a dark theme and with responsiveness in mind. My projects are lists in a single column and text is minimal. This is also when I started having fun with tooltip styling and bright colors.
 ---
 
-<img src="https://cozymaus.github.io/img/portfoliomid2018mobile.png" alt="" class="img-fluid"/>
+<img src="https://cozymaus.github.io/img/portfoliomid2018mobile.png" alt="Screenshot of Fourth Portfolio on Mobile" class="img-fluid"/>
 
 <p class="caption"><a href="http://cozymaus.com/portfolio-2018-v2" target="_blank">Visit Site</a> • <a href="https://github.com/cozymaus/portfolio-2018-v2">Source Code</a></p>
 
-<img src="https://cozymaus.github.io/img/portfoliomid2018desktop.png" alt="" class="img-fluid"/>
+<img src="https://cozymaus.github.io/img/portfoliomid2018desktop.png" alt="Screenshot of Fourth Portfolio on Desktop" class="img-fluid"/>
 
 <p class="caption">Yes, I made these just for this post.</p>
 
@@ -21,8 +21,8 @@ excerpt: My fourth portfolio is an original design made with HTML, CSS, Bootstra
 
 <p>Here's the mobile site in action:</p>
 
-<img src="https://cozymaus.github.io/img/portfolio2018onmobile.gif" alt="" class="img-fluid"/>
+<img src="https://cozymaus.github.io/img/portfolio2018onmobile.gif" alt="Gif of Fourth Portfolio on Mobile" class="img-fluid"/>
 
 <p>Here's a <a href="https://addons.mozilla.org/en-US/firefox/addon/fireshot/" target="_blank" rel="nofollow">screenshot</a> of the entire landing page with graphics of all my best projects thus far:</p>
 
-<img src="https://cozymaus.github.io/img/portfoliobylizorg.png" alt="" class="img-fluid"/>
+<img src="https://cozymaus.github.io/img/portfoliobylizorg.png" alt="Screenshot of Entire Fourth Portfolio on Desktop" class="img-fluid"/>
