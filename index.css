@@ -1,13 +1,3 @@
-::-moz-selection { /* Code for Firefox */
-	color: white;
-	background: var(--main-link-color);
-}
-
-::selection {
-	color: white;
-	background: var(--main-link-color);
-}
-
 html { 
 		--text-color: black;
   		--main-link-color: rgb(227, 57, 109);
@@ -17,6 +7,17 @@ html {
 		--border-color: #dddddd;
 		--purple-link-color: rgb(59, 48, 140);
 		--green-link-color: rgb(9, 192, 181);
+		--highlight-color:white;
+}
+
+::-moz-selection { /* Code for Firefox */
+	color: var(--highlight-color);
+	background: var(--main-link-color);
+}
+
+::selection {
+	color: var(--highlight-color);
+	background: var(--main-link-color);
 }
 
 a {
@@ -120,8 +121,8 @@ span.green {
 }
 
 div#links a.green:hover {
-	color: var(--text-background-color);
-	border: 1px var(--text-background-color) solid;
+	color: var(--highlight-color);
+	border: 1px var(--highlight-color) solid;
 	background-color: var(--green-link-color);
 }
 
@@ -135,8 +136,8 @@ span.red {
 }
 
 div#links a.red:hover {
-	color: var(--text-background-color);
-	border: 1px var(--text-background-color) solid;
+	color: var(--highlight-color);
+	border: 1px var(--highlight-color) solid;
 	background-color: var(--main-link-color);
 }
 
@@ -150,8 +151,8 @@ span.purple {
 }
 
 div#links a.purple:hover {
-	color: var(--text-background-color);
-	border: 1px var(--text-background-color) solid;
+	color: var(--highlight-color);
+	border: 1px var(--highlight-color) solid;
 	background-color: var(--purple-link-color);
 }
 
@@ -461,7 +462,7 @@ div.columnOne, div.columnTwo {
 
 /* The flip box container - set the width and height to whatever you want. We have added the border property to demonstrate that the flip itself goes out of the box on hover (remove perspective if you don't want the 3D effect */
 .flip-box {
-  background-color: black;
+  background-color: var(--text-background-color);
   width: 510px;
   height: 510px;
   perspective: 2000px; /* Remove this if you don't want the 3D effect */
@@ -629,6 +630,7 @@ width: 25%;
 		--border-color: rgb(58, 62, 65);
 		--purple-link-color: rgb(59, 48, 140);
 		--green-link-color: rgb(9, 192, 181);
+		--highlight-color:white;
 	}
 
 }
