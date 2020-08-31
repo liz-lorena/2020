@@ -419,6 +419,10 @@ div.stuff img, div.stuff iframe, div.stuff video {
 padding-bottom:0px !important;
 }
 
+p.simple-nav {
+		color:var(--border-color)!important;
+	}
+
 @media (max-width: 600px) {
 	/*div.columnOne, div.columnTwo {
 		width:100%!important;
@@ -590,9 +594,7 @@ div#links.pages a .flip-box {
 		float: left;
 	}
 
-	p.simple-nav {
-		color:var(--border-color);
-	}
+	
 	
 div#links {width:510px !important; }
 div#links.portfolio {width:510px!important;}
