@@ -25,4 +25,5 @@ featured: "yes"
 <img src="https://cozymaus.github.io/img/links-page-v3-long-v2.png" alt="Fifth Screenshot of Links Page" class="img-fluid"/>
 <p>In the <strong>Current Version</strong> I have finally added a dark theme that enables with your computer's color settings. I also created a proper landing page which highlights only my current projects because having to scroll through all my projects on the home page is not good practice. I have also now added a footer and a proper navigation menu for the pages on the website, including my email address. I reduced the number of links down to six and moved my LinkedIn and my résumé links to the CV page. Finally, I bothered to get my SEO, Accessability, Performance, and Best Practices scores in the green using Lighthouse.</p>
 <img src="https://cozymaus.github.io/img/links-page-v4-dark.png" alt="Sixth Screenshot of Links Page in Dark Theme" class="img-fluid"/>
+<br>
 <img src="https://cozymaus.github.io/img/links-page-v4-light.png" alt="Seventh Screenshot of Links Page in Light Theme" class="img-fluid"/>
