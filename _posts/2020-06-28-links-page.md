@@ -13,13 +13,16 @@ featured: "yes"
 
 <p class="caption"><a href="https://cozymaus.com" target="_blank">Visit CozyMaus.com</a> • <a href="https://github.com/cozymaus/cozymaus.github.io" target="_blank">View Source Code</a></p>
 <h3>Change History</h3>
-<p class="caption">Version 1</p>
+<p class="caption"><strong>Version 1</strong> was a simple colorful links page with a short bio that showed up on top on desktop and below on mobile. The list of links was vertical on mobile and a two-row grid on desktop. I went overboard and put eight links in this first version.</p>
 <img src="https://cozymaus.github.io/img/linkspage.jpg" alt="First Screenshot of Links Page" class="img-fluid"/>
 <br>
 <img src="https://cozymaus.github.io/img/links-page-v1.jpg" alt="Second Screenshot of Links Page" class="img-fluid"/>
-<p class="caption">Version 2</p>
+<p class="caption"><strong>Version 2</strong> has better code, better colors, a new logo, and a legend that explains what each link color meant.</p>
 <img src="https://cozymaus.github.io/img/links-page-v2.png" alt="Third Screenshot of Links Page" class="img-fluid"/>
-<p class="caption">Version 3</p>
+<p class="caption"><strong>Version 3</strong> had a better layout and logo and saw the inclusion of my gallery of projects which flipped over to reveal more information. On mobile these images would not flip and instead the information would now display below the image. I also added an about page and a CV page, and some projects have their own article.</p>
 <img src="https://cozymaus.github.io/img/links-page-v3-long-v1.png" alt="Fourth Screenshot of Links Page" class="img-fluid"/>
-<p class="caption">Current Version</p>
+<p class="caption">For <strong>Version 3.5</strong> I made the gallery two columns instead of three so the images would be clearer.</p>
 <img src="https://cozymaus.github.io/img/links-page-v3-long-v2.png" alt="Fifth Screenshot of Links Page" class="img-fluid"/>
+<p class="caption">In the <strong>Current Version</strong> I have finally added a dark theme that enables with your computer's color settings. I also created a proper homepage which highlights only my current projects because having my entire portfolio as the homepage is not good practice. I have also now added a footer and a proper navigation menu for the pages on the website, including my email address. I reduced the number of links down to six and moved my LinkedIn and my résumé links to the CV page. Finally, I bothered to get my SEO, Accessability, Performance, and Best Practices scores in the green using Lighthouse.</p>
+<img src="https://cozymaus.github.io/img/links-page-v4-dark.png" alt="Sixth Screenshot of Links Page in Dark Theme" class="img-fluid"/>
+<img src="https://cozymaus.github.io/img/links-page-v4-light.png" alt="Seventh Screenshot of Links Page in Light Theme" class="img-fluid"/>
