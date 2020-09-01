@@ -5,7 +5,7 @@ html {
 		--text-background-color: #F6F6F6;
 		--heading-background-color: #fafafa;
 		--border-color: #dddddd;
-		--purple-link-color: rgb(59, 48, 140);
+		--purple-link-color: rgb(103, 85, 230);
 		--green-link-color: rgb(9, 192, 181);
 		--highlight-color:white;
 }
@@ -633,7 +633,7 @@ width: 25%;
 		--text-background-color: rgb(29, 32, 33);
 		--heading-background-color: #181a1b;
 		--border-color: rgb(58, 62, 65);
-		--purple-link-color: rgb(59, 48, 140);
+		--purple-link-color: rgb(103, 85, 230);
 		--green-link-color: rgb(9, 192, 181);
 		--highlight-color:white;
 	}
