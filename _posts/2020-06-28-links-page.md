@@ -13,7 +13,7 @@ featured: "yes"
 
 <p class="caption"><a href="https://cozymaus.com" target="_blank">Visit CozyMaus.com</a> • <a href="https://github.com/cozymaus/cozymaus.github.io" target="_blank">View Source Code</a></p>
 <h3>Change History</h3>
-<p><strong>Version 1</strong> was a simple colorful links page with a short bio that showed up on top on desktop and below on mobile. The link buttons were a vertical list on mobile and a two-row grid on desktop. I went overboard and put eight links in this first version, including one to my portfolio site at the time (<a href="https://cozymaus.com/portfolio-2019/" target="_blank">https://cozymaus.com/portfolio-2019/</a>).</p>
+<p><strong>Version 1</strong> was a simple colorful links page with a short bio that showed up on top on desktop and below on mobile. The link buttons were in a vertical list on mobile and a two-row grid on desktop. I went overboard and put eight links in this first version, including one to my portfolio site at the time (<a href="https://cozymaus.com/portfolio-2019/" target="_blank">https://cozymaus.com/portfolio-2019/</a>).</p>
 <img src="https://cozymaus.github.io/img/linkspage.jpg" alt="First Screenshot of Links Page" class="img-fluid"/>
 <br>
 <img src="https://cozymaus.github.io/img/links-page-v1.jpg" alt="Second Screenshot of Links Page" class="img-fluid"/>
