@@ -11,4 +11,4 @@ excerpt: I made this web application with four teammates as the final project fo
 
 <img src="https://cozymaus.github.io/img/jobographic2.jpg" class="img-fluid" alt="Screenshot of Jobographic Web Application">
 
-<p class="caption"><a href="https://jobographic.cozymaus.com" target="_blank">Visit Site</a> • <a href="https://github.com/cozymaus/jobographic" target="_blank">Source Code</a></p>
+<p class="caption"><a href="http://jobographic.cozymaus.com" target="_blank">Visit Site</a> • <a href="https://github.com/cozymaus/jobographic" target="_blank">Source Code</a></p>
