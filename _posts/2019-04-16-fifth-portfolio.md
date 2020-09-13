@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Fifth Portfolio
-projectDate: April 2019 - June 2020
+projectDate: April 2019 – June 2020
 category: HTML Website
 role: Web Designer
 img: fifthportfolio.jpg
