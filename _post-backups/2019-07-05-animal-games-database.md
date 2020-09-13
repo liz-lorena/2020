@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kemono Database
+title: Kemono Games Database
 projectDate: July 2019 - Present
 category: HTML Website
 role: Web Designer
