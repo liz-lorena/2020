@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Former Links Page and Current Portfolio
-projectDate: August 2018 - Present
+projectDate: August 2018 – Present
 category: HTML Page
 role: Web Designer
 img: linkspage.jpg
