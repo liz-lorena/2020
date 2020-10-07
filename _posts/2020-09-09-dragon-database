@@ -1,0 +1,12 @@
+---
+layout: post
+title: Dragon Database
+projectDate: September 2020 – Present
+category: HTML Website
+role: Web Developer
+img: agdb.jpg
+link: https://dragons.cozymaus.com/
+excerpt: This project is a website database that lists all the video games that feature dragons as playable characters. It was originally meant to list all the video games that feature playable non-human animals, but I decided to narrow the scope because the original topic was much too broad.
+external: "yes"
+featured: "yes"
+---
