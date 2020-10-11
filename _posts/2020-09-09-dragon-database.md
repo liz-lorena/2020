@@ -8,5 +8,4 @@ img: agdb.jpg
 link: https://dragons.cozymaus.com/
 excerpt: This project combines my interests in video games and dragons. It's a website database that lists all the video games that feature dragons as playable characters. It uses an original pink theme I created. The goal was to see how well I could create a "fake database" using the Jekyll static site generator.
 external: "yes"
-featured: "yes"
 ---
