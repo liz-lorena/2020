@@ -431,6 +431,9 @@ p.simple-nav {
 	div.columnOne {
 		border-bottom: 2px solid #AD002A;
 	}*/
+	p, li, a, input, span {
+	font-size:12pt!important;
+	}
 	
 	div.flip-box-front img {width:100% !important;}
 }
