@@ -411,8 +411,8 @@ div.stuff img, div.stuff iframe, div.stuff video {
 	border-radius: 50%; 
 	height: 140px; 
 	width: 140px; 
-	border:2px solid var(--main-link-color);
-	background-color:var(--main-link-color);
+	/*border:2px solid var(--main-link-color);
+	background-color:var(--main-link-color);*/
 }
 
 .excerpt {
