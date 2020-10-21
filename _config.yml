@@ -3,7 +3,8 @@ title:              "cozymaus.com"
 description:        "the online portfolio of liz lorena berberena."
 
 # Author Info
-author_name:        cozymaus
+author_name:        liz lorena berberena
+username:           cozymaus
 
 # Site Settings
 baseurl:            "" # Base URL must end WITHOUT a slash, default: ""
