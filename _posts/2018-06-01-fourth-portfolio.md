@@ -11,7 +11,7 @@ excerpt: My fourth portfolio is an original design made with HTML, CSS, Bootstra
 
 <img src="https://cozymaus.github.io/img/portfoliomid2018mobile.png" alt="Screenshot of Fourth Portfolio on Mobile" class="img-fluid"/>
 
-<p class="caption"><a href="http://cozymaus.com/portfolio-2018-v2" target="_blank">Visit Site</a> • <a href="https://github.com/cozymaus/portfolio-2018-v2">Source Code</a></p>
+<p class="caption"><a href="http://lizlorena.com/2019" target="_blank">Visit Site</a> • <a href="https://github.com/cozymaus/2019">Source Code</a></p>
 
 <img src="https://cozymaus.github.io/img/portfoliomid2018desktop.png" alt="Screenshot of Fourth Portfolio on Desktop" class="img-fluid"/>
 
