@@ -1,2 +1,2 @@
-# cozymaus.github.io
+# lizberberena.github.io
 🐭 lizlorena.com | current portfolio website.
