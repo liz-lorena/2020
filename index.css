@@ -236,7 +236,7 @@ div#title h1, div.stuff h2, div.stuff h3, div.stuff h4  {
 	border: 1px solid var(--border-color);
 	color: var(--text-color);
 	padding: 10px;
-	font-family: serif;
+	font-family: sans-serif;
 	letter-spacing: 1px;
 	font-weight: 100;
 	font-size: 20pt;
