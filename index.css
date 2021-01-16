@@ -1,5 +1,6 @@
 html { 
 		--text-color: black;
+		--header-color: black;
   		--main-link-color: rgb(227, 57, 109);
   		--projects-background-color: #181A1B;
 		--text-background-color: #F6F6F6;
@@ -234,7 +235,7 @@ padding-top:20px;
 div#title h1, div.stuff h2, div.stuff h3, div.stuff h4  {
 	background-color: var(--heading-background-color);
 	border: 1px solid var(--border-color);
-	color: var(--text-color);
+	color: var(--header-color);
 	padding: 10px;
 	font-family: sans-serif;
 	letter-spacing: 1px;
@@ -631,6 +632,7 @@ width: 25%;
 @media (prefers-color-scheme: dark) {
 	html {
 		--text-color: rgb(187, 187, 187);
+		--header-color: white;
   		--main-link-color: rgb(227, 57, 109);
   		--projects-background-color: rgb(24, 26, 27);
 		--text-background-color: rgb(29, 32, 33);
