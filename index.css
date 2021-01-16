@@ -198,7 +198,7 @@ a:hover, a:focus, a:active {
 	color: var(--text-color);
 	font-size: 12pt;
 	font-family: sans-serif;
-	line-height: 130%;
+	line-height: 145%;
 }
 
 /*div#title::after {
@@ -630,7 +630,7 @@ width: 25%;
 
 @media (prefers-color-scheme: dark) {
 	html {
-		--text-color: rgb(232, 230, 227);
+		--text-color: rgb(187, 187, 187);
   		--main-link-color: rgb(227, 57, 109);
   		--projects-background-color: rgb(24, 26, 27);
 		--text-background-color: rgb(29, 32, 33);
