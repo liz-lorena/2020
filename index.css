@@ -319,7 +319,7 @@ letter-spacing: 0;
 /* Style the back side */
 .flip-box-back {
   padding-top:35px;
-  color: var(--text-color);
+  color: var(--header-color);
 } 
 
 #status p.stuff, #about p.stuff, div.stuff p, div.stuff li {
@@ -636,7 +636,7 @@ width: 25%;
 @media (prefers-color-scheme: dark) {
 	html {
 		--text-color: rgb(187, 187, 187);
-		--header-color: white;
+		--header-color: rgb(232, 230, 227);
   		--main-link-color: rgb(227, 57, 109);
   		--projects-background-color: rgb(24, 26, 27);
 		--text-background-color: rgb(29, 32, 33);
