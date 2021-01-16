@@ -424,6 +424,10 @@ p.simple-nav {
 		color:var(--border-color)!important;
 	}
 
+strong {
+color: var(--header-color);
+}
+
 @media (max-width: 600px) {
 	/*div.columnOne, div.columnTwo {
 		width:100%!important;
