@@ -15,7 +15,7 @@ favicon:            https://lizlorena.com/img/logos/cozymaus-logo-2020-new-trans
 logo:               https://lizlorena.com/img/logos/cozymaus-logo-2020-new-transparent.png
 
 # Pagination Settings
-paginate_path: "/blog/pg-:num/"
+paginate_path: "/pg-:num/"
 paginate: 5
 
 # Site Build
