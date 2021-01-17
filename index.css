@@ -602,7 +602,9 @@ div#links.pages a .flip-box {
 		float: left;
 	}
 
-	
+	img.art {
+	display:block!important;
+	}	
 	
 div#links {width:510px !important; }
 div#links.portfolio {width:510px!important;}
