@@ -570,7 +570,7 @@ div.columnOne, div.columnTwo {
    }
    /* Style the back side */
    .flip-box-back {
-      padding: 50px;
+      padding: 35px;
       transform: rotateY(180deg);
    }
    span.green,
