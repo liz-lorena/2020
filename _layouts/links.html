@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-123712244-11"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-123712244-11');
+</script>
+        
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="og:image" content="{{ site.logo }}">
+    <meta name="description" content="{{ site.description }}">
+    <meta name="title" content="{{ site.title }}">
+    <meta name="keywords" content="web developer, web designer, front end developer, cozymaus, liz berberena, liz l berberena, liz lorena berberena">
+    <meta name="author" content="{{ site.author_name }}">
+    <meta name="twitter" content="{{ site.username }}">
+    <meta name="github" content="{{ site.username }}">
+
+    <title>{{ site.title }} – {{ page.title }}</title>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+   
+    <link href="{{ site.url }}/2021/index.css" rel="stylesheet">
+    <link href="{{ site.url }}/2021/index-links.css" rel="stylesheet">
+    <link href="{{ site.url }}/cssreset.css" rel="stylesheet">
+    <link rel="shortcut icon" type="image/x-icon" href="{{ site.favicon }}">
+
+    </head>
+<body>
+
+
+<div id="top">
+
+<div id="status">
+            {% include logo.html %}
+    </div>
+
+    <div id="about">
+        <div id="title"><h1>Liz Lorena Berberena</h1></div>
+      
+        <div class="stuff">
+      
+        {{content}}
+                    
+
+      </div>
+    </div>
+
+</div>
+  
+    {% include links.html %}
+    {% include footer.html %}
+
+</body>
+</html>
