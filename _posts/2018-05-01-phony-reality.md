@@ -10,7 +10,7 @@ excerpt: This is the second game I made in the Unity game engine. It's a 3D walk
 relevant: "no"
 ---
 
-<img src="https://lizlorena.com/img/phonyrealitymenuyoyod.gif" alt="Gif of Phony Reality Menu Loop" class="img-fluid"/>
+<img src="https://lizberberena.com/img/phonyrealitymenuyoyod.gif" alt="Gif of Phony Reality Menu Loop" class="img-fluid"/>
 
 <p class="caption"><a href="https://github.com/lizberberena/games" target="_blank">Download Zip from Google Drive</a></p>
 
@@ -20,5 +20,5 @@ relevant: "no"
 
 <p>Also, not to spoil anything, but the themes in this game are something I want to incorporate in my current game as well.</p>
 
-<img src="https://lizlorena.com/img/PhonyReality2.png" alt="Screenshot of Phony Reality" class="img-fluid"/>
-<img src="https://lizlorena.com/img/PhonyReality3.png" alt="Second Screenshot of Phony Reality" class="img-fluid"/>
+<img src="https://lizberberena.com/img/PhonyReality2.png" alt="Screenshot of Phony Reality" class="img-fluid"/>
+<img src="https://lizberberena.com/img/PhonyReality3.png" alt="Second Screenshot of Phony Reality" class="img-fluid"/>
