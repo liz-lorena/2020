@@ -5,7 +5,7 @@ projectDate: December 2017
 category: Java Game
 role: Game Developer and Designer
 img: hauntedmansion.jpg
-link: /projects/haunted-mansion-text-adventure
+link: projects/haunted-mansion-text-adventure
 excerpt: This second game that I made in the Java programming language is a text adventure, something that I've always wanted to make. It was the final group project for my Object-Oriented Programming course in university. The goal of the game is to escape a haunted mansion through exploration using only text. I was happy to learn more advanced Java concepts to cross this item off my bucket list.
 relevant: "no"
 ---
