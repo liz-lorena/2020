@@ -1,5 +1,5 @@
 # 2020
-This was my sixth portfolio site made from scratch. I used it from 2020 to 2021.
+This was my seventh portfolio site made from scratch. I used it from 2020 to 2021.
 
 <h3>Change History</h3>
 <p><strong>Version 1</strong> was a simple colorful links page with a short bio that showed up on top on desktop and below on mobile. The link buttons were in a vertical list on mobile and a two-row grid on desktop. I went overboard and put eight links in this first version, including one to my portfolio site at the time (<a href="https://lizberberena.com/2019/" target="_blank">https://lizberberena.com/2019/</a>).</p>
