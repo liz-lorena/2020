@@ -12,7 +12,7 @@ relevant: "no"
 
 <img src="https://lizberberena.com/img/tictactoe2.png" alt="Screenshot of Tic Tac Toe Game" class="img-fluid"/>
 
-<p class="caption"><a href="https://github.com/lizberberena/games" target="_blank">Download Zip from Google Drive</a></p>
+<p class="caption"><a href="https://github.com/lizberberena/lizberberena" target="_blank">Download Zip from Google Drive</a></p>
 
 <p>The first complete computer game I ever made was Tic Tac Toe in Visual Basic.NET. I made it for my final project in my Visual Basic programming elective class in my junior year of high school. Visual Basic was the first programming language I ever learned, and I fell in love with what programming was in that class and haven't stopped dreaming of a career in tech since. I remember spending mornings and evenings working on this game tirelessly on the school computers. It's a super small game, and it isn't coded great, but I remember the work feeling like a lot and feeling super satisfied when it ran exactly how I wanted it to. </p>
 
