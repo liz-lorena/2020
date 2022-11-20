@@ -12,7 +12,7 @@ relevant: "no"
 
 <img src="https://lizberberena.com/img/metalloidmenu.gif" alt="Gif of Main Menu of Metalloid Game" class="img-fluid"/>
 
-<p class="caption"><a href="https://github.com/lizberberena/games" target="_blank">Download Zip from Google Drive</a></p>
+<p class="caption"><a href="https://github.com/lizberberena/lizberberena" target="_blank">Download Zip from Google Drive</a></p>
 
 <p>This was my partnered midterm project for my game design class in my junior year of college. It was the first time I ever made anything with Unity, and it was a lot of fun to learn how to use this software and how to make a 2D side-scroller. Unfortunately, it was also quite stressful to make this game because of the glitches in Unity's cloud collaboration feature. Also I found that I don't like the click-and-drag nature of this software because it makes everything feel super imprecise.</p>
 
