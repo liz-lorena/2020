@@ -1,18 +1,18 @@
 # Site Info
-title:              "lizberberena.com"
-description:        "the online portfolio of liz lorena berberena."
+title:              "irisoflys.com"
+description:        "the online portfolio of lys."
 
 # Author Info
-author_name:        liz lorena berberena
-username:           lizberberena
+author_name:        Iris of Lys
+username:           irisoflys
 
 # Site Settings
 baseurl:            "" # Base URL must end WITHOUT a slash, default: ""
 permalink:          /projects/:title # Post permalink
 timezone:           America/New_York # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 language:           en-US
-favicon:            https://lizberberena.com/img/sitewideimg.jpg
-logo:               https://lizberberena.com/img/sitewideimg.jpg
+favicon:            /img/sitewideimg.jpg
+logo:               /img/sitewideimg.jpg
 
 # Pagination Settings
 paginate_path: "/pg-:num/"
