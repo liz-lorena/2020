@@ -9,15 +9,13 @@ link: https://github.com/irisoflys/irisoflys
 excerpt: My first portfolio was a one-page design made with HTML, CSS, Bootstrap, and Javascript. I repurposed a design by Tania Rascia that was freely available for use as a template on her Github. I used some simple jQuery for the projects portion of the website. This was the first stepping stone to making my own complete personal website from scratch.
 ---
 
-<img src="https://irisoflys.com/img/firstportfoliofromscratchss.png" alt="Screenshot of First Portfolio Attempt" class="img-fluid"/>
+<p class="caption"><a href="https://irisoflys.com/mid-2017" target="_blank">Visit Site</a> • <a href="https://github.com/irisoflys/mid-2017" target="_blank">Source Code</a></p>
+
+<img src="https://irisoflys.com/img/firstportfoliofromscratchss.png" alt="Screenshot of First Portfolio Attempt" class="img-fluid"/> 
 
 <p>I think this is the earliest screenshot I have from my early attempts at making a website with a proper design from scratch. I tried to go with a minimalist modern design with lots of white space again, but I wasn't happy with the loose and sloppy way the pages behaved. In retrospect, the index page does look pretty cool, and if I only still had the source code I would share it with you over on my Github. In fact, I may try to remake it sometime. I do recall that I used bootstrap to center the elements on the page and make the buttons, so this places this design somewhere in mid to late 2017.</p>
 
-<h4 id="first-portfolio">Version 2.2.0 - Late 2017</h4>
-
 <img src="https://irisoflys.com/img/firstportfolio.png" alt="Screenshot of First Portfolio" class="img-fluid"/>
-
-<p class="caption"><a href="https://irisoflys.com/2016" target="_blank">Visit Site</a> • <a href="https://github.com/irisoflys/2016" target="_blank">Source Code</a></p>
 
 <p>My first stable portfolio site was made thanks to the work of <a href="http://taniarascia.com" target="_blank" rel="nofollow">Tania Rascia</a>, a web developer who makes extremely useful tutorials for web development and design. This particular theme was made available by her for free on her Github.</p>
 
