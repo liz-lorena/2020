@@ -9,7 +9,7 @@ link: https://github.com/lizberberena/lizberberena
 excerpt: In 2018 this page used to only be a simple replacement for the linktr.ee service as a page of my most important website links, but in 2020 I realized it could be a good minimalist portfolio website. My favorite additions to this version of my portfolio are the flippable project cards and the automatic dark theme.
 external: "no"
 featured: "yes"
----
+--- 
 
 <p class="caption"><a href="https://lizlorena.com/2020/" target="_blank">Visit lizlorena.com/2020/</a> • <a href="https://github.com/lizberberena/2020" target="_blank">View Source Code</a></p>
 <h3>Change History</h3>
