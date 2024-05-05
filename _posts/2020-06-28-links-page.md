@@ -5,13 +5,13 @@ projectDate: August 2018 – April 2021
 category: HTML Page
 role: Web Designer
 img: linkspage.jpg
-link: https://github.com/lizberberena/lizberberena
+link: https://github.com/liz-lorena/liz-lorena
 excerpt: In 2018 this page used to only be a simple replacement for the linktr.ee service as a page of my most important website links, but in 2020 I realized it could be a good minimalist portfolio website. My favorite additions to this version of my portfolio are the flippable project cards and the automatic dark theme.
 external: "no"
 featured: "yes"
 --- 
 
-<p class="caption"><a href="https://lizlorena.com/2020/" target="_blank">Visit lizlorena.com/2020/</a> • <a href="https://github.com/lizberberena/2020" target="_blank">View Source Code</a></p>
+<p class="caption"><a href="https://lizlorena.com/2020/" target="_blank">Visit lizlorena.com/2020/</a> • <a href="https://github.com/liz-lorena/2020" target="_blank">View Source Code</a></p>
 <h3>Change History</h3>
 <p><strong>Version 1</strong> was a simple colorful links page with a short bio that showed up on top on desktop and below on mobile. The link buttons were in a vertical list on mobile and a two-row grid on desktop. I went overboard and put eight links in this first version, including one to my portfolio site at the time (<a href="https://lizlorena.com/2020/" target="_blank">https://lizlorena.com/2020/</a>).</p>
 <img src="https://lizlorena.com/img/linkspage.jpg" alt="First Screenshot of Links Page" class="img-fluid"/>
